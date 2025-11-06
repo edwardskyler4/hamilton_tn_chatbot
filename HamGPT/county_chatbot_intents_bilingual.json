@@ -1,0 +1,2027 @@
+[
+  {
+    "tag": "accounting",
+    "example_inputs": {
+      "en": [
+        "How do I contact Accounting?",
+        "What does the Accounting do?",
+        "Accounting hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Accounting?",
+        "¿Qué hace el Accounting?",
+        "¿Cuál es el horario de atención del Accounting?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Accounting at...",
+        "The Accounting is responsible for...",
+        "Here are the office hours for Accounting..."
+      ],
+      "es": [
+        "Puede comunicarse con Accounting en...",
+        "El Accounting es responsable de...",
+        "El horario de atención del Accounting es..."
+      ]
+    }
+  },
+  {
+    "tag": "ut/tsu_extension_-_hamilton_county",
+    "example_inputs": {
+      "en": [
+        "How do I contact UT/TSU Extension - Hamilton County?",
+        "What does the UT/TSU Extension - Hamilton County do?",
+        "UT/TSU Extension - Hamilton County hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Ut/Tsu Extension - Hamilton County?",
+        "¿Qué hace el Ut/Tsu Extension - Hamilton County?",
+        "¿Cuál es el horario de atención del Ut/Tsu Extension - Hamilton County?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact UT/TSU Extension - Hamilton County at...",
+        "The UT/TSU Extension - Hamilton County is responsible for...",
+        "Here are the office hours for UT/TSU Extension - Hamilton County..."
+      ],
+      "es": [
+        "Puede comunicarse con Ut/Tsu Extension - Hamilton County en...",
+        "El Ut/Tsu Extension - Hamilton County es responsable de...",
+        "El horario de atención del Ut/Tsu Extension - Hamilton County es..."
+      ]
+    }
+  },
+  {
+    "tag": "alternative_sentencing",
+    "example_inputs": {
+      "en": [
+        "How do I contact Alternative Sentencing?",
+        "What does the Alternative Sentencing do?",
+        "Alternative Sentencing hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Alternative Sentencing?",
+        "¿Qué hace el Alternative Sentencing?",
+        "¿Cuál es el horario de atención del Alternative Sentencing?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Alternative Sentencing at...",
+        "The Alternative Sentencing is responsible for...",
+        "Here are the office hours for Alternative Sentencing..."
+      ],
+      "es": [
+        "Puede comunicarse con Alternative Sentencing en...",
+        "El Alternative Sentencing es responsable de...",
+        "El horario de atención del Alternative Sentencing es..."
+      ]
+    }
+  },
+  {
+    "tag": "assessor_of_property",
+    "example_inputs": {
+      "en": [
+        "How do I contact Assessor of Property?",
+        "What does the Assessor of Property do?",
+        "Assessor of Property hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Assessor Of Property?",
+        "¿Qué hace el Assessor Of Property?",
+        "¿Cuál es el horario de atención del Assessor Of Property?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Assessor of Property at...",
+        "The Assessor of Property is responsible for...",
+        "Here are the office hours for Assessor of Property..."
+      ],
+      "es": [
+        "Puede comunicarse con Assessor Of Property en...",
+        "El Assessor Of Property es responsable de...",
+        "El horario de atención del Assessor Of Property es..."
+      ]
+    }
+  },
+  {
+    "tag": "building_inspection_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Building Inspection Department?",
+        "What does the Building Inspection Department do?",
+        "Building Inspection Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Building Inspection Department?",
+        "¿Qué hace el Building Inspection Department?",
+        "¿Cuál es el horario de atención del Building Inspection Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Building Inspection Department at...",
+        "The Building Inspection Department is responsible for...",
+        "Here are the office hours for Building Inspection Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Building Inspection Department en...",
+        "El Building Inspection Department es responsable de...",
+        "El horario de atención del Building Inspection Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "chester_frost_park",
+    "example_inputs": {
+      "en": [
+        "How do I contact Chester Frost Park?",
+        "What does the Chester Frost Park do?",
+        "Chester Frost Park hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Chester Frost Park?",
+        "¿Qué hace el Chester Frost Park?",
+        "¿Cuál es el horario de atención del Chester Frost Park?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Chester Frost Park at...",
+        "The Chester Frost Park is responsible for...",
+        "Here are the office hours for Chester Frost Park..."
+      ],
+      "es": [
+        "Puede comunicarse con Chester Frost Park en...",
+        "El Chester Frost Park es responsable de...",
+        "El horario de atención del Chester Frost Park es..."
+      ]
+    }
+  },
+  {
+    "tag": "chancery_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Chancery Court?",
+        "What does the Chancery Court do?",
+        "Chancery Court hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Chancery Court?",
+        "¿Qué hace el Chancery Court?",
+        "¿Cuál es el horario de atención del Chancery Court?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Chancery Court at...",
+        "The Chancery Court is responsible for...",
+        "Here are the office hours for Chancery Court..."
+      ],
+      "es": [
+        "Puede comunicarse con Chancery Court en...",
+        "El Chancery Court es responsable de...",
+        "El horario de atención del Chancery Court es..."
+      ]
+    }
+  },
+  {
+    "tag": "chcrpa",
+    "example_inputs": {
+      "en": [
+        "How do I contact CHCRPA?",
+        "What does the CHCRPA do?",
+        "CHCRPA hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Chcrpa?",
+        "¿Qué hace el Chcrpa?",
+        "¿Cuál es el horario de atención del Chcrpa?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact CHCRPA at...",
+        "The CHCRPA is responsible for...",
+        "Here are the office hours for CHCRPA..."
+      ],
+      "es": [
+        "Puede comunicarse con Chcrpa en...",
+        "El Chcrpa es responsable de...",
+        "El horario de atención del Chcrpa es..."
+      ]
+    }
+  },
+  {
+    "tag": "chief_of_staff",
+    "example_inputs": {
+      "en": [
+        "How do I contact Chief of Staff?",
+        "What does the Chief of Staff do?",
+        "Chief of Staff hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Chief Of Staff?",
+        "¿Qué hace el Chief Of Staff?",
+        "¿Cuál es el horario de atención del Chief Of Staff?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Chief of Staff at...",
+        "The Chief of Staff is responsible for...",
+        "Here are the office hours for Chief of Staff..."
+      ],
+      "es": [
+        "Puede comunicarse con Chief Of Staff en...",
+        "El Chief Of Staff es responsable de...",
+        "El horario de atención del Chief Of Staff es..."
+      ]
+    }
+  },
+  {
+    "tag": "circuit_court_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact Circuit Court Clerk?",
+        "What does the Circuit Court Clerk do?",
+        "Circuit Court Clerk hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Circuit Court Clerk?",
+        "¿Qué hace el Circuit Court Clerk?",
+        "¿Cuál es el horario de atención del Circuit Court Clerk?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Circuit Court Clerk at...",
+        "The Circuit Court Clerk is responsible for...",
+        "Here are the office hours for Circuit Court Clerk..."
+      ],
+      "es": [
+        "Puede comunicarse con Circuit Court Clerk en...",
+        "El Circuit Court Clerk es responsable de...",
+        "El horario de atención del Circuit Court Clerk es..."
+      ]
+    }
+  },
+  {
+    "tag": "circuit_court_judges",
+    "example_inputs": {
+      "en": [
+        "How do I contact Circuit Court Judges?",
+        "What does the Circuit Court Judges do?",
+        "Circuit Court Judges hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Circuit Court Judges?",
+        "¿Qué hace el Circuit Court Judges?",
+        "¿Cuál es el horario de atención del Circuit Court Judges?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Circuit Court Judges at...",
+        "The Circuit Court Judges is responsible for...",
+        "Here are the office hours for Circuit Court Judges..."
+      ],
+      "es": [
+        "Puede comunicarse con Circuit Court Judges en...",
+        "El Circuit Court Judges es responsable de...",
+        "El horario de atención del Circuit Court Judges es..."
+      ]
+    }
+  },
+  {
+    "tag": "clerk_and_master",
+    "example_inputs": {
+      "en": [
+        "How do I contact Clerk And Master?",
+        "What does the Clerk And Master do?",
+        "Clerk And Master hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Clerk And Master?",
+        "¿Qué hace el Clerk And Master?",
+        "¿Cuál es el horario de atención del Clerk And Master?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Clerk And Master at...",
+        "The Clerk And Master is responsible for...",
+        "Here are the office hours for Clerk And Master..."
+      ],
+      "es": [
+        "Puede comunicarse con Clerk And Master en...",
+        "El Clerk And Master es responsable de...",
+        "El horario de atención del Clerk And Master es..."
+      ]
+    }
+  },
+  {
+    "tag": "community_and_economic_development_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Community and Economic Development Department?",
+        "What does the Community and Economic Development Department do?",
+        "Community and Economic Development Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Community And Economic Development Department?",
+        "¿Qué hace el Community And Economic Development Department?",
+        "¿Cuál es el horario de atención del Community And Economic Development Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Community and Economic Development Department at...",
+        "The Community and Economic Development Department is responsible for...",
+        "Here are the office hours for Community and Economic Development Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Community And Economic Development Department en...",
+        "El Community And Economic Development Department es responsable de...",
+        "El horario de atención del Community And Economic Development Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "county_attorney",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Attorney?",
+        "What does the County Attorney do?",
+        "County Attorney hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Attorney?",
+        "¿Qué hace el County Attorney?",
+        "¿Cuál es el horario de atención del County Attorney?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Attorney at...",
+        "The County Attorney is responsible for...",
+        "Here are the office hours for County Attorney..."
+      ],
+      "es": [
+        "Puede comunicarse con County Attorney en...",
+        "El County Attorney es responsable de...",
+        "El horario de atención del County Attorney es..."
+      ]
+    }
+  },
+  {
+    "tag": "county_auditor's_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Auditor's Office?",
+        "What does the County Auditor's Office do?",
+        "County Auditor's Office hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Auditor'S Office?",
+        "¿Qué hace el County Auditor'S Office?",
+        "¿Cuál es el horario de atención del County Auditor'S Office?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Auditor's Office at...",
+        "The County Auditor's Office is responsible for...",
+        "Here are the office hours for County Auditor's Office..."
+      ],
+      "es": [
+        "Puede comunicarse con County Auditor'S Office en...",
+        "El County Auditor'S Office es responsable de...",
+        "El horario de atención del County Auditor'S Office es..."
+      ]
+    }
+  },
+  {
+    "tag": "county_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Clerk?",
+        "What does the County Clerk do?",
+        "County Clerk hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Clerk?",
+        "¿Qué hace el County Clerk?",
+        "¿Cuál es el horario de atención del County Clerk?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Clerk at...",
+        "The County Clerk is responsible for...",
+        "Here are the office hours for County Clerk..."
+      ],
+      "es": [
+        "Puede comunicarse con County Clerk en...",
+        "El County Clerk es responsable de...",
+        "El horario de atención del County Clerk es..."
+      ]
+    }
+  },
+  {
+    "tag": "county_commission",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Commission?",
+        "What does the County Commission do?",
+        "County Commission hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Commission?",
+        "¿Qué hace el County Commission?",
+        "¿Cuál es el horario de atención del County Commission?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Commission at...",
+        "The County Commission is responsible for...",
+        "Here are the office hours for County Commission..."
+      ],
+      "es": [
+        "Puede comunicarse con County Commission en...",
+        "El County Commission es responsable de...",
+        "El horario de atención del County Commission es..."
+      ]
+    }
+  },
+  {
+    "tag": "county_mayor",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Mayor?",
+        "What does the County Mayor do?",
+        "County Mayor hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Mayor?",
+        "¿Qué hace el County Mayor?",
+        "¿Cuál es el horario de atención del County Mayor?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Mayor at...",
+        "The County Mayor is responsible for...",
+        "Here are the office hours for County Mayor..."
+      ],
+      "es": [
+        "Puede comunicarse con County Mayor en...",
+        "El County Mayor es responsable de...",
+        "El horario de atención del County Mayor es..."
+      ]
+    }
+  },
+  {
+    "tag": "criminal_court_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact Criminal Court Clerk?",
+        "What does the Criminal Court Clerk do?",
+        "Criminal Court Clerk hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Criminal Court Clerk?",
+        "¿Qué hace el Criminal Court Clerk?",
+        "¿Cuál es el horario de atención del Criminal Court Clerk?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Criminal Court Clerk at...",
+        "The Criminal Court Clerk is responsible for...",
+        "Here are the office hours for Criminal Court Clerk..."
+      ],
+      "es": [
+        "Puede comunicarse con Criminal Court Clerk en...",
+        "El Criminal Court Clerk es responsable de...",
+        "El horario de atención del Criminal Court Clerk es..."
+      ]
+    }
+  },
+  {
+    "tag": "criminal_court_clerk_expungement_center",
+    "example_inputs": {
+      "en": [
+        "How do I contact Criminal Court Clerk Expungement Center?",
+        "What does the Criminal Court Clerk Expungement Center do?",
+        "Criminal Court Clerk Expungement Center hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Criminal Court Clerk Expungement Center?",
+        "¿Qué hace el Criminal Court Clerk Expungement Center?",
+        "¿Cuál es el horario de atención del Criminal Court Clerk Expungement Center?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Criminal Court Clerk Expungement Center at...",
+        "The Criminal Court Clerk Expungement Center is responsible for...",
+        "Here are the office hours for Criminal Court Clerk Expungement Center..."
+      ],
+      "es": [
+        "Puede comunicarse con Criminal Court Clerk Expungement Center en...",
+        "El Criminal Court Clerk Expungement Center es responsable de...",
+        "El horario de atención del Criminal Court Clerk Expungement Center es..."
+      ]
+    }
+  },
+  {
+    "tag": "criminal_court_clerk_payment_center",
+    "example_inputs": {
+      "en": [
+        "How do I contact Criminal Court Clerk Payment Center?",
+        "What does the Criminal Court Clerk Payment Center do?",
+        "Criminal Court Clerk Payment Center hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Criminal Court Clerk Payment Center?",
+        "¿Qué hace el Criminal Court Clerk Payment Center?",
+        "¿Cuál es el horario de atención del Criminal Court Clerk Payment Center?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Criminal Court Clerk Payment Center at...",
+        "The Criminal Court Clerk Payment Center is responsible for...",
+        "Here are the office hours for Criminal Court Clerk Payment Center..."
+      ],
+      "es": [
+        "Puede comunicarse con Criminal Court Clerk Payment Center en...",
+        "El Criminal Court Clerk Payment Center es responsable de...",
+        "El horario de atención del Criminal Court Clerk Payment Center es..."
+      ]
+    }
+  },
+  {
+    "tag": "criminal_court_judges",
+    "example_inputs": {
+      "en": [
+        "How do I contact Criminal Court Judges?",
+        "What does the Criminal Court Judges do?",
+        "Criminal Court Judges hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Criminal Court Judges?",
+        "¿Qué hace el Criminal Court Judges?",
+        "¿Cuál es el horario de atención del Criminal Court Judges?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Criminal Court Judges at...",
+        "The Criminal Court Judges is responsible for...",
+        "Here are the office hours for Criminal Court Judges..."
+      ],
+      "es": [
+        "Puede comunicarse con Criminal Court Judges en...",
+        "El Criminal Court Judges es responsable de...",
+        "El horario de atención del Criminal Court Judges es..."
+      ]
+    }
+  },
+  {
+    "tag": "development_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Development Department?",
+        "What does the Development Department do?",
+        "Development Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Development Department?",
+        "¿Qué hace el Development Department?",
+        "¿Cuál es el horario de atención del Development Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Development Department at...",
+        "The Development Department is responsible for...",
+        "Here are the office hours for Development Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Development Department en...",
+        "El Development Department es responsable de...",
+        "El horario de atención del Development Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "development_services",
+    "example_inputs": {
+      "en": [
+        "How do I contact Development Services?",
+        "What does the Development Services do?",
+        "Development Services hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Development Services?",
+        "¿Qué hace el Development Services?",
+        "¿Cuál es el horario de atención del Development Services?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Development Services at...",
+        "The Development Services is responsible for...",
+        "Here are the office hours for Development Services..."
+      ],
+      "es": [
+        "Puede comunicarse con Development Services en...",
+        "El Development Services es responsable de...",
+        "El horario de atención del Development Services es..."
+      ]
+    }
+  },
+  {
+    "tag": "district_attorney_general",
+    "example_inputs": {
+      "en": [
+        "How do I contact District Attorney General?",
+        "What does the District Attorney General do?",
+        "District Attorney General hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con District Attorney General?",
+        "¿Qué hace el District Attorney General?",
+        "¿Cuál es el horario de atención del District Attorney General?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact District Attorney General at...",
+        "The District Attorney General is responsible for...",
+        "Here are the office hours for District Attorney General..."
+      ],
+      "es": [
+        "Puede comunicarse con District Attorney General en...",
+        "El District Attorney General es responsable de...",
+        "El horario de atención del District Attorney General es..."
+      ]
+    }
+  },
+  {
+    "tag": "drug_recovery_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Drug Recovery Court?",
+        "What does the Drug Recovery Court do?",
+        "Drug Recovery Court hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Drug Recovery Court?",
+        "¿Qué hace el Drug Recovery Court?",
+        "¿Cuál es el horario de atención del Drug Recovery Court?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Drug Recovery Court at...",
+        "The Drug Recovery Court is responsible for...",
+        "Here are the office hours for Drug Recovery Court..."
+      ],
+      "es": [
+        "Puede comunicarse con Drug Recovery Court en...",
+        "El Drug Recovery Court es responsable de...",
+        "El horario de atención del Drug Recovery Court es..."
+      ]
+    }
+  },
+  {
+    "tag": "education_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Education Department?",
+        "What does the Education Department do?",
+        "Education Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Education Department?",
+        "¿Qué hace el Education Department?",
+        "¿Cuál es el horario de atención del Education Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Education Department at...",
+        "The Education Department is responsible for...",
+        "Here are the office hours for Education Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Education Department en...",
+        "El Education Department es responsable de...",
+        "El horario de atención del Education Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "election_commission",
+    "example_inputs": {
+      "en": [
+        "How do I contact Election Commission?",
+        "What does the Election Commission do?",
+        "Election Commission hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Election Commission?",
+        "¿Qué hace el Election Commission?",
+        "¿Cuál es el horario de atención del Election Commission?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Election Commission at...",
+        "The Election Commission is responsible for...",
+        "Here are the office hours for Election Commission..."
+      ],
+      "es": [
+        "Puede comunicarse con Election Commission en...",
+        "El Election Commission es responsable de...",
+        "El horario de atención del Election Commission es..."
+      ]
+    }
+  },
+  {
+    "tag": "emergency_management_and_homeland_security",
+    "example_inputs": {
+      "en": [
+        "How do I contact Emergency Management and Homeland Security?",
+        "What does the Emergency Management and Homeland Security do?",
+        "Emergency Management and Homeland Security hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Emergency Management And Homeland Security?",
+        "¿Qué hace el Emergency Management And Homeland Security?",
+        "¿Cuál es el horario de atención del Emergency Management And Homeland Security?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Emergency Management and Homeland Security at...",
+        "The Emergency Management and Homeland Security is responsible for...",
+        "Here are the office hours for Emergency Management and Homeland Security..."
+      ],
+      "es": [
+        "Puede comunicarse con Emergency Management And Homeland Security en...",
+        "El Emergency Management And Homeland Security es responsable de...",
+        "El horario de atención del Emergency Management And Homeland Security es..."
+      ]
+    }
+  },
+  {
+    "tag": "emergency_medical_services_(ems)",
+    "example_inputs": {
+      "en": [
+        "How do I contact Emergency Medical Services (EMS)?",
+        "What does the Emergency Medical Services (EMS) do?",
+        "Emergency Medical Services (EMS) hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Emergency Medical Services (Ems)?",
+        "¿Qué hace el Emergency Medical Services (Ems)?",
+        "¿Cuál es el horario de atención del Emergency Medical Services (Ems)?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Emergency Medical Services (EMS) at...",
+        "The Emergency Medical Services (EMS) is responsible for...",
+        "Here are the office hours for Emergency Medical Services (EMS)..."
+      ],
+      "es": [
+        "Puede comunicarse con Emergency Medical Services (Ems) en...",
+        "El Emergency Medical Services (Ems) es responsable de...",
+        "El horario de atención del Emergency Medical Services (Ems) es..."
+      ]
+    }
+  },
+  {
+    "tag": "engineering_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Engineering Department?",
+        "What does the Engineering Department do?",
+        "Engineering Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Engineering Department?",
+        "¿Qué hace el Engineering Department?",
+        "¿Cuál es el horario de atención del Engineering Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Engineering Department at...",
+        "The Engineering Department is responsible for...",
+        "Here are the office hours for Engineering Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Engineering Department en...",
+        "El Engineering Department es responsable de...",
+        "El horario de atención del Engineering Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "enterprise_south_nature_park",
+    "example_inputs": {
+      "en": [
+        "How do I contact Enterprise South Nature Park?",
+        "What does the Enterprise South Nature Park do?",
+        "Enterprise South Nature Park hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Enterprise South Nature Park?",
+        "¿Qué hace el Enterprise South Nature Park?",
+        "¿Cuál es el horario de atención del Enterprise South Nature Park?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Enterprise South Nature Park at...",
+        "The Enterprise South Nature Park is responsible for...",
+        "Here are the office hours for Enterprise South Nature Park..."
+      ],
+      "es": [
+        "Puede comunicarse con Enterprise South Nature Park en...",
+        "El Enterprise South Nature Park es responsable de...",
+        "El horario de atención del Enterprise South Nature Park es..."
+      ]
+    }
+  },
+  {
+    "tag": "equal_employment_opportunity_(eeo)",
+    "example_inputs": {
+      "en": [
+        "How do I contact Equal Employment Opportunity (EEO)?",
+        "What does the Equal Employment Opportunity (EEO) do?",
+        "Equal Employment Opportunity (EEO) hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Equal Employment Opportunity (Eeo)?",
+        "¿Qué hace el Equal Employment Opportunity (Eeo)?",
+        "¿Cuál es el horario de atención del Equal Employment Opportunity (Eeo)?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Equal Employment Opportunity (EEO) at...",
+        "The Equal Employment Opportunity (EEO) is responsible for...",
+        "Here are the office hours for Equal Employment Opportunity (EEO)..."
+      ],
+      "es": [
+        "Puede comunicarse con Equal Employment Opportunity (Eeo) en...",
+        "El Equal Employment Opportunity (Eeo) es responsable de...",
+        "El horario de atención del Equal Employment Opportunity (Eeo) es..."
+      ]
+    }
+  },
+  {
+    "tag": "facilities_maintenance_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Facilities Maintenance Department?",
+        "What does the Facilities Maintenance Department do?",
+        "Facilities Maintenance Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Facilities Maintenance Department?",
+        "¿Qué hace el Facilities Maintenance Department?",
+        "¿Cuál es el horario de atención del Facilities Maintenance Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Facilities Maintenance Department at...",
+        "The Facilities Maintenance Department is responsible for...",
+        "Here are the office hours for Facilities Maintenance Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Facilities Maintenance Department en...",
+        "El Facilities Maintenance Department es responsable de...",
+        "El horario de atención del Facilities Maintenance Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "finance_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact Finance Division?",
+        "What does the Finance Division do?",
+        "Finance Division hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Finance Division?",
+        "¿Qué hace el Finance Division?",
+        "¿Cuál es el horario de atención del Finance Division?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Finance Division at...",
+        "The Finance Division is responsible for...",
+        "Here are the office hours for Finance Division..."
+      ],
+      "es": [
+        "Puede comunicarse con Finance Division en...",
+        "El Finance Division es responsable de...",
+        "El horario de atención del Finance Division es..."
+      ]
+    }
+  },
+  {
+    "tag": "financial_management",
+    "example_inputs": {
+      "en": [
+        "How do I contact Financial Management?",
+        "What does the Financial Management do?",
+        "Financial Management hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Financial Management?",
+        "¿Qué hace el Financial Management?",
+        "¿Cuál es el horario de atención del Financial Management?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Financial Management at...",
+        "The Financial Management is responsible for...",
+        "Here are the office hours for Financial Management..."
+      ],
+      "es": [
+        "Puede comunicarse con Financial Management en...",
+        "El Financial Management es responsable de...",
+        "El horario de atención del Financial Management es..."
+      ]
+    }
+  },
+  {
+    "tag": "general_services_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact General Services Division?",
+        "What does the General Services Division do?",
+        "General Services Division hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con General Services Division?",
+        "¿Qué hace el General Services Division?",
+        "¿Cuál es el horario de atención del General Services Division?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact General Services Division at...",
+        "The General Services Division is responsible for...",
+        "Here are the office hours for General Services Division..."
+      ],
+      "es": [
+        "Puede comunicarse con General Services Division en...",
+        "El General Services Division es responsable de...",
+        "El horario de atención del General Services Division es..."
+      ]
+    }
+  },
+  {
+    "tag": "general_sessions_criminal_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact General Sessions Criminal Clerk?",
+        "What does the General Sessions Criminal Clerk do?",
+        "General Sessions Criminal Clerk hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con General Sessions Criminal Clerk?",
+        "¿Qué hace el General Sessions Criminal Clerk?",
+        "¿Cuál es el horario de atención del General Sessions Criminal Clerk?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact General Sessions Criminal Clerk at...",
+        "The General Sessions Criminal Clerk is responsible for...",
+        "Here are the office hours for General Sessions Criminal Clerk..."
+      ],
+      "es": [
+        "Puede comunicarse con General Sessions Criminal Clerk en...",
+        "El General Sessions Criminal Clerk es responsable de...",
+        "El horario de atención del General Sessions Criminal Clerk es..."
+      ]
+    }
+  },
+  {
+    "tag": "geospatial_technology",
+    "example_inputs": {
+      "en": [
+        "How do I contact Geospatial Technology?",
+        "What does the Geospatial Technology do?",
+        "Geospatial Technology hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Geospatial Technology?",
+        "¿Qué hace el Geospatial Technology?",
+        "¿Cuál es el horario de atención del Geospatial Technology?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Geospatial Technology at...",
+        "The Geospatial Technology is responsible for...",
+        "Here are the office hours for Geospatial Technology..."
+      ],
+      "es": [
+        "Puede comunicarse con Geospatial Technology en...",
+        "El Geospatial Technology es responsable de...",
+        "El horario de atención del Geospatial Technology es..."
+      ]
+    }
+  },
+  {
+    "tag": "ground_water",
+    "example_inputs": {
+      "en": [
+        "How do I contact Ground Water?",
+        "What does the Ground Water do?",
+        "Ground Water hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Ground Water?",
+        "¿Qué hace el Ground Water?",
+        "¿Cuál es el horario de atención del Ground Water?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Ground Water at...",
+        "The Ground Water is responsible for...",
+        "Here are the office hours for Ground Water..."
+      ],
+      "es": [
+        "Puede comunicarse con Ground Water en...",
+        "El Ground Water es responsable de...",
+        "El horario de atención del Ground Water es..."
+      ]
+    }
+  },
+  {
+    "tag": "health_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Health Department?",
+        "What does the Health Department do?",
+        "Health Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Health Department?",
+        "¿Qué hace el Health Department?",
+        "¿Cuál es el horario de atención del Health Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Health Department at...",
+        "The Health Department is responsible for...",
+        "Here are the office hours for Health Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Health Department en...",
+        "El Health Department es responsable de...",
+        "El horario de atención del Health Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "highway_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Highway Department?",
+        "What does the Highway Department do?",
+        "Highway Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Highway Department?",
+        "¿Qué hace el Highway Department?",
+        "¿Cuál es el horario de atención del Highway Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Highway Department at...",
+        "The Highway Department is responsible for...",
+        "Here are the office hours for Highway Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Highway Department en...",
+        "El Highway Department es responsable de...",
+        "El horario de atención del Highway Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "human_resources_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact Human Resources Division?",
+        "What does the Human Resources Division do?",
+        "Human Resources Division hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Human Resources Division?",
+        "¿Qué hace el Human Resources Division?",
+        "¿Cuál es el horario de atención del Human Resources Division?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Human Resources Division at...",
+        "The Human Resources Division is responsible for...",
+        "Here are the office hours for Human Resources Division..."
+      ],
+      "es": [
+        "Puede comunicarse con Human Resources Division en...",
+        "El Human Resources Division es responsable de...",
+        "El horario de atención del Human Resources Division es..."
+      ]
+    }
+  },
+  {
+    "tag": "information_technology_department_(it)",
+    "example_inputs": {
+      "en": [
+        "How do I contact Information Technology Department (IT)?",
+        "What does the Information Technology Department (IT) do?",
+        "Information Technology Department (IT) hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Information Technology Department (It)?",
+        "¿Qué hace el Information Technology Department (It)?",
+        "¿Cuál es el horario de atención del Information Technology Department (It)?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Information Technology Department (IT) at...",
+        "The Information Technology Department (IT) is responsible for...",
+        "Here are the office hours for Information Technology Department (IT)..."
+      ],
+      "es": [
+        "Puede comunicarse con Information Technology Department (It) en...",
+        "El Information Technology Department (It) es responsable de...",
+        "El horario de atención del Information Technology Department (It) es..."
+      ]
+    }
+  },
+  {
+    "tag": "judicial_commission_magistrates",
+    "example_inputs": {
+      "en": [
+        "How do I contact Judicial Commission Magistrates?",
+        "What does the Judicial Commission Magistrates do?",
+        "Judicial Commission Magistrates hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Judicial Commission Magistrates?",
+        "¿Qué hace el Judicial Commission Magistrates?",
+        "¿Cuál es el horario de atención del Judicial Commission Magistrates?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Judicial Commission Magistrates at...",
+        "The Judicial Commission Magistrates is responsible for...",
+        "Here are the office hours for Judicial Commission Magistrates..."
+      ],
+      "es": [
+        "Puede comunicarse con Judicial Commission Magistrates en...",
+        "El Judicial Commission Magistrates es responsable de...",
+        "El horario de atención del Judicial Commission Magistrates es..."
+      ]
+    }
+  },
+  {
+    "tag": "juvenile_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Juvenile Court?",
+        "What does the Juvenile Court do?",
+        "Juvenile Court hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Juvenile Court?",
+        "¿Qué hace el Juvenile Court?",
+        "¿Cuál es el horario de atención del Juvenile Court?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Juvenile Court at...",
+        "The Juvenile Court is responsible for...",
+        "Here are the office hours for Juvenile Court..."
+      ],
+      "es": [
+        "Puede comunicarse con Juvenile Court en...",
+        "El Juvenile Court es responsable de...",
+        "El horario de atención del Juvenile Court es..."
+      ]
+    }
+  },
+  {
+    "tag": "juvenile_court_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact Juvenile Court Clerk?",
+        "What does the Juvenile Court Clerk do?",
+        "Juvenile Court Clerk hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Juvenile Court Clerk?",
+        "¿Qué hace el Juvenile Court Clerk?",
+        "¿Cuál es el horario de atención del Juvenile Court Clerk?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Juvenile Court Clerk at...",
+        "The Juvenile Court Clerk is responsible for...",
+        "Here are the office hours for Juvenile Court Clerk..."
+      ],
+      "es": [
+        "Puede comunicarse con Juvenile Court Clerk en...",
+        "El Juvenile Court Clerk es responsable de...",
+        "El horario de atención del Juvenile Court Clerk es..."
+      ]
+    }
+  },
+  {
+    "tag": "child_support_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact Child Support Division?",
+        "What does the Child Support Division do?",
+        "Child Support Division hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Child Support Division?",
+        "¿Qué hace el Child Support Division?",
+        "¿Cuál es el horario de atención del Child Support Division?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Child Support Division at...",
+        "The Child Support Division is responsible for...",
+        "Here are the office hours for Child Support Division..."
+      ],
+      "es": [
+        "Puede comunicarse con Child Support Division en...",
+        "El Child Support Division es responsable de...",
+        "El horario de atención del Child Support Division es..."
+      ]
+    }
+  },
+  {
+    "tag": "local_emergency_planning_committee_(lepc)",
+    "example_inputs": {
+      "en": [
+        "How do I contact Local Emergency Planning Committee (LEPC)?",
+        "What does the Local Emergency Planning Committee (LEPC) do?",
+        "Local Emergency Planning Committee (LEPC) hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Local Emergency Planning Committee (Lepc)?",
+        "¿Qué hace el Local Emergency Planning Committee (Lepc)?",
+        "¿Cuál es el horario de atención del Local Emergency Planning Committee (Lepc)?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Local Emergency Planning Committee (LEPC) at...",
+        "The Local Emergency Planning Committee (LEPC) is responsible for...",
+        "Here are the office hours for Local Emergency Planning Committee (LEPC)..."
+      ],
+      "es": [
+        "Puede comunicarse con Local Emergency Planning Committee (Lepc) en...",
+        "El Local Emergency Planning Committee (Lepc) es responsable de...",
+        "El horario de atención del Local Emergency Planning Committee (Lepc) es..."
+      ]
+    }
+  },
+  {
+    "tag": "magistrates_-_judicial_commission",
+    "example_inputs": {
+      "en": [
+        "How do I contact Magistrates - Judicial Commission?",
+        "What does the Magistrates - Judicial Commission do?",
+        "Magistrates - Judicial Commission hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Magistrates - Judicial Commission?",
+        "¿Qué hace el Magistrates - Judicial Commission?",
+        "¿Cuál es el horario de atención del Magistrates - Judicial Commission?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Magistrates - Judicial Commission at...",
+        "The Magistrates - Judicial Commission is responsible for...",
+        "Here are the office hours for Magistrates - Judicial Commission..."
+      ],
+      "es": [
+        "Puede comunicarse con Magistrates - Judicial Commission en...",
+        "El Magistrates - Judicial Commission es responsable de...",
+        "El horario de atención del Magistrates - Judicial Commission es..."
+      ]
+    }
+  },
+  {
+    "tag": "mayor",
+    "example_inputs": {
+      "en": [
+        "How do I contact Mayor?",
+        "What does the Mayor do?",
+        "Mayor hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Mayor?",
+        "¿Qué hace el Mayor?",
+        "¿Cuál es el horario de atención del Mayor?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Mayor at...",
+        "The Mayor is responsible for...",
+        "Here are the office hours for Mayor..."
+      ],
+      "es": [
+        "Puede comunicarse con Mayor en...",
+        "El Mayor es responsable de...",
+        "El horario de atención del Mayor es..."
+      ]
+    }
+  },
+  {
+    "tag": "medical_examiner",
+    "example_inputs": {
+      "en": [
+        "How do I contact Medical Examiner?",
+        "What does the Medical Examiner do?",
+        "Medical Examiner hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Medical Examiner?",
+        "¿Qué hace el Medical Examiner?",
+        "¿Cuál es el horario de atención del Medical Examiner?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Medical Examiner at...",
+        "The Medical Examiner is responsible for...",
+        "Here are the office hours for Medical Examiner..."
+      ],
+      "es": [
+        "Puede comunicarse con Medical Examiner en...",
+        "El Medical Examiner es responsable de...",
+        "El horario de atención del Medical Examiner es..."
+      ]
+    }
+  },
+  {
+    "tag": "mental_health_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Mental Health Court?",
+        "What does the Mental Health Court do?",
+        "Mental Health Court hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Mental Health Court?",
+        "¿Qué hace el Mental Health Court?",
+        "¿Cuál es el horario de atención del Mental Health Court?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Mental Health Court at...",
+        "The Mental Health Court is responsible for...",
+        "Here are the office hours for Mental Health Court..."
+      ],
+      "es": [
+        "Puede comunicarse con Mental Health Court en...",
+        "El Mental Health Court es responsable de...",
+        "El horario de atención del Mental Health Court es..."
+      ]
+    }
+  },
+  {
+    "tag": "parks_and_recreation",
+    "example_inputs": {
+      "en": [
+        "How do I contact Parks And Recreation?",
+        "What does the Parks And Recreation do?",
+        "Parks And Recreation hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Parks And Recreation?",
+        "¿Qué hace el Parks And Recreation?",
+        "¿Cuál es el horario de atención del Parks And Recreation?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Parks And Recreation at...",
+        "The Parks And Recreation is responsible for...",
+        "Here are the office hours for Parks And Recreation..."
+      ],
+      "es": [
+        "Puede comunicarse con Parks And Recreation en...",
+        "El Parks And Recreation es responsable de...",
+        "El horario de atención del Parks And Recreation es..."
+      ]
+    }
+  },
+  {
+    "tag": "procurement_and_fleet_management_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Procurement And Fleet Management Department?",
+        "What does the Procurement And Fleet Management Department do?",
+        "Procurement And Fleet Management Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Procurement And Fleet Management Department?",
+        "¿Qué hace el Procurement And Fleet Management Department?",
+        "¿Cuál es el horario de atención del Procurement And Fleet Management Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Procurement And Fleet Management Department at...",
+        "The Procurement And Fleet Management Department is responsible for...",
+        "Here are the office hours for Procurement And Fleet Management Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Procurement And Fleet Management Department en...",
+        "El Procurement And Fleet Management Department es responsable de...",
+        "El horario de atención del Procurement And Fleet Management Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "public_defender",
+    "example_inputs": {
+      "en": [
+        "How do I contact Public Defender?",
+        "What does the Public Defender do?",
+        "Public Defender hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Public Defender?",
+        "¿Qué hace el Public Defender?",
+        "¿Cuál es el horario de atención del Public Defender?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Public Defender at...",
+        "The Public Defender is responsible for...",
+        "Here are the office hours for Public Defender..."
+      ],
+      "es": [
+        "Puede comunicarse con Public Defender en...",
+        "El Public Defender es responsable de...",
+        "El horario de atención del Public Defender es..."
+      ]
+    }
+  },
+  {
+    "tag": "public_works_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact Public Works Division?",
+        "What does the Public Works Division do?",
+        "Public Works Division hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Public Works Division?",
+        "¿Qué hace el Public Works Division?",
+        "¿Cuál es el horario de atención del Public Works Division?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Public Works Division at...",
+        "The Public Works Division is responsible for...",
+        "Here are the office hours for Public Works Division..."
+      ],
+      "es": [
+        "Puede comunicarse con Public Works Division en...",
+        "El Public Works Division es responsable de...",
+        "El horario de atención del Public Works Division es..."
+      ]
+    }
+  },
+  {
+    "tag": "read_20_program",
+    "example_inputs": {
+      "en": [
+        "How do I contact Read 20 Program?",
+        "What does the Read 20 Program do?",
+        "Read 20 Program hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Read 20 Program?",
+        "¿Qué hace el Read 20 Program?",
+        "¿Cuál es el horario de atención del Read 20 Program?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Read 20 Program at...",
+        "The Read 20 Program is responsible for...",
+        "Here are the office hours for Read 20 Program..."
+      ],
+      "es": [
+        "Puede comunicarse con Read 20 Program en...",
+        "El Read 20 Program es responsable de...",
+        "El horario de atención del Read 20 Program es..."
+      ]
+    }
+  },
+  {
+    "tag": "real_property_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact Real Property Office?",
+        "What does the Real Property Office do?",
+        "Real Property Office hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Real Property Office?",
+        "¿Qué hace el Real Property Office?",
+        "¿Cuál es el horario de atención del Real Property Office?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Real Property Office at...",
+        "The Real Property Office is responsible for...",
+        "Here are the office hours for Real Property Office..."
+      ],
+      "es": [
+        "Puede comunicarse con Real Property Office en...",
+        "El Real Property Office es responsable de...",
+        "El horario de atención del Real Property Office es..."
+      ]
+    }
+  },
+  {
+    "tag": "records_management",
+    "example_inputs": {
+      "en": [
+        "How do I contact Records Management?",
+        "What does the Records Management do?",
+        "Records Management hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Records Management?",
+        "¿Qué hace el Records Management?",
+        "¿Cuál es el horario de atención del Records Management?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Records Management at...",
+        "The Records Management is responsible for...",
+        "Here are the office hours for Records Management..."
+      ],
+      "es": [
+        "Puede comunicarse con Records Management en...",
+        "El Records Management es responsable de...",
+        "El horario de atención del Records Management es..."
+      ]
+    }
+  },
+  {
+    "tag": "recycling_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Recycling Department?",
+        "What does the Recycling Department do?",
+        "Recycling Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Recycling Department?",
+        "¿Qué hace el Recycling Department?",
+        "¿Cuál es el horario de atención del Recycling Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Recycling Department at...",
+        "The Recycling Department is responsible for...",
+        "Here are the office hours for Recycling Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Recycling Department en...",
+        "El Recycling Department es responsable de...",
+        "El horario de atención del Recycling Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "register_of_deeds",
+    "example_inputs": {
+      "en": [
+        "How do I contact Register of Deeds?",
+        "What does the Register of Deeds do?",
+        "Register of Deeds hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Register Of Deeds?",
+        "¿Qué hace el Register Of Deeds?",
+        "¿Cuál es el horario de atención del Register Of Deeds?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Register of Deeds at...",
+        "The Register of Deeds is responsible for...",
+        "Here are the office hours for Register of Deeds..."
+      ],
+      "es": [
+        "Puede comunicarse con Register Of Deeds en...",
+        "El Register Of Deeds es responsable de...",
+        "El horario de atención del Register Of Deeds es..."
+      ]
+    }
+  },
+  {
+    "tag": "risk_management_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact Risk Management Office?",
+        "What does the Risk Management Office do?",
+        "Risk Management Office hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Risk Management Office?",
+        "¿Qué hace el Risk Management Office?",
+        "¿Cuál es el horario de atención del Risk Management Office?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Risk Management Office at...",
+        "The Risk Management Office is responsible for...",
+        "Here are the office hours for Risk Management Office..."
+      ],
+      "es": [
+        "Puede comunicarse con Risk Management Office en...",
+        "El Risk Management Office es responsable de...",
+        "El horario de atención del Risk Management Office es..."
+      ]
+    }
+  },
+  {
+    "tag": "sessions_civil_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Sessions Civil Court?",
+        "What does the Sessions Civil Court do?",
+        "Sessions Civil Court hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Sessions Civil Court?",
+        "¿Qué hace el Sessions Civil Court?",
+        "¿Cuál es el horario de atención del Sessions Civil Court?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Sessions Civil Court at...",
+        "The Sessions Civil Court is responsible for...",
+        "Here are the office hours for Sessions Civil Court..."
+      ],
+      "es": [
+        "Puede comunicarse con Sessions Civil Court en...",
+        "El Sessions Civil Court es responsable de...",
+        "El horario de atención del Sessions Civil Court es..."
+      ]
+    }
+  },
+  {
+    "tag": "sessions_court_judges_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact Sessions Court Judges Office?",
+        "What does the Sessions Court Judges Office do?",
+        "Sessions Court Judges Office hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Sessions Court Judges Office?",
+        "¿Qué hace el Sessions Court Judges Office?",
+        "¿Cuál es el horario de atención del Sessions Court Judges Office?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Sessions Court Judges Office at...",
+        "The Sessions Court Judges Office is responsible for...",
+        "Here are the office hours for Sessions Court Judges Office..."
+      ],
+      "es": [
+        "Puede comunicarse con Sessions Court Judges Office en...",
+        "El Sessions Court Judges Office es responsable de...",
+        "El horario de atención del Sessions Court Judges Office es..."
+      ]
+    }
+  },
+  {
+    "tag": "sheriff",
+    "example_inputs": {
+      "en": [
+        "How do I contact Sheriff?",
+        "What does the Sheriff do?",
+        "Sheriff hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Sheriff?",
+        "¿Qué hace el Sheriff?",
+        "¿Cuál es el horario de atención del Sheriff?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Sheriff at...",
+        "The Sheriff is responsible for...",
+        "Here are the office hours for Sheriff..."
+      ],
+      "es": [
+        "Puede comunicarse con Sheriff en...",
+        "El Sheriff es responsable de...",
+        "El horario de atención del Sheriff es..."
+      ]
+    }
+  },
+  {
+    "tag": "soil_and_water_conservation_district",
+    "example_inputs": {
+      "en": [
+        "How do I contact Soil and Water Conservation District?",
+        "What does the Soil and Water Conservation District do?",
+        "Soil and Water Conservation District hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Soil And Water Conservation District?",
+        "¿Qué hace el Soil And Water Conservation District?",
+        "¿Cuál es el horario de atención del Soil And Water Conservation District?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Soil and Water Conservation District at...",
+        "The Soil and Water Conservation District is responsible for...",
+        "Here are the office hours for Soil and Water Conservation District..."
+      ],
+      "es": [
+        "Puede comunicarse con Soil And Water Conservation District en...",
+        "El Soil And Water Conservation District es responsable de...",
+        "El horario de atención del Soil And Water Conservation District es..."
+      ]
+    }
+  },
+  {
+    "tag": "support_services",
+    "example_inputs": {
+      "en": [
+        "How do I contact Support Services?",
+        "What does the Support Services do?",
+        "Support Services hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Support Services?",
+        "¿Qué hace el Support Services?",
+        "¿Cuál es el horario de atención del Support Services?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Support Services at...",
+        "The Support Services is responsible for...",
+        "Here are the office hours for Support Services..."
+      ],
+      "es": [
+        "Puede comunicarse con Support Services en...",
+        "El Support Services es responsable de...",
+        "El horario de atención del Support Services es..."
+      ]
+    }
+  },
+  {
+    "tag": "telecommunication_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Telecommunication Department?",
+        "What does the Telecommunication Department do?",
+        "Telecommunication Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Telecommunication Department?",
+        "¿Qué hace el Telecommunication Department?",
+        "¿Cuál es el horario de atención del Telecommunication Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Telecommunication Department at...",
+        "The Telecommunication Department is responsible for...",
+        "Here are the office hours for Telecommunication Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Telecommunication Department en...",
+        "El Telecommunication Department es responsable de...",
+        "El horario de atención del Telecommunication Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "title_vi_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Title VI Department?",
+        "What does the Title VI Department do?",
+        "Title VI Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Title Vi Department?",
+        "¿Qué hace el Title Vi Department?",
+        "¿Cuál es el horario de atención del Title Vi Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Title VI Department at...",
+        "The Title VI Department is responsible for...",
+        "Here are the office hours for Title VI Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Title Vi Department en...",
+        "El Title Vi Department es responsable de...",
+        "El horario de atención del Title Vi Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "tennessee_riverpark",
+    "example_inputs": {
+      "en": [
+        "How do I contact Tennessee Riverpark?",
+        "What does the Tennessee Riverpark do?",
+        "Tennessee Riverpark hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Tennessee Riverpark?",
+        "¿Qué hace el Tennessee Riverpark?",
+        "¿Cuál es el horario de atención del Tennessee Riverpark?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Tennessee Riverpark at...",
+        "The Tennessee Riverpark is responsible for...",
+        "Here are the office hours for Tennessee Riverpark..."
+      ],
+      "es": [
+        "Puede comunicarse con Tennessee Riverpark en...",
+        "El Tennessee Riverpark es responsable de...",
+        "El horario de atención del Tennessee Riverpark es..."
+      ]
+    }
+  },
+  {
+    "tag": "trustee",
+    "example_inputs": {
+      "en": [
+        "How do I contact Trustee?",
+        "What does the Trustee do?",
+        "Trustee hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Trustee?",
+        "¿Qué hace el Trustee?",
+        "¿Cuál es el horario de atención del Trustee?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Trustee at...",
+        "The Trustee is responsible for...",
+        "Here are the office hours for Trustee..."
+      ],
+      "es": [
+        "Puede comunicarse con Trustee en...",
+        "El Trustee es responsable de...",
+        "El horario de atención del Trustee es..."
+      ]
+    }
+  },
+  {
+    "tag": "veteran_services_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact Veteran Services Office?",
+        "What does the Veteran Services Office do?",
+        "Veteran Services Office hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Veteran Services Office?",
+        "¿Qué hace el Veteran Services Office?",
+        "¿Cuál es el horario de atención del Veteran Services Office?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Veteran Services Office at...",
+        "The Veteran Services Office is responsible for...",
+        "Here are the office hours for Veteran Services Office..."
+      ],
+      "es": [
+        "Puede comunicarse con Veteran Services Office en...",
+        "El Veteran Services Office es responsable de...",
+        "El horario de atención del Veteran Services Office es..."
+      ]
+    }
+  },
+  {
+    "tag": "water_quality_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Water Quality Department?",
+        "What does the Water Quality Department do?",
+        "Water Quality Department hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Water Quality Department?",
+        "¿Qué hace el Water Quality Department?",
+        "¿Cuál es el horario de atención del Water Quality Department?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Water Quality Department at...",
+        "The Water Quality Department is responsible for...",
+        "Here are the office hours for Water Quality Department..."
+      ],
+      "es": [
+        "Puede comunicarse con Water Quality Department en...",
+        "El Water Quality Department es responsable de...",
+        "El horario de atención del Water Quality Department es..."
+      ]
+    }
+  },
+  {
+    "tag": "water_and_wastewater_treatment_authority_(wwta)",
+    "example_inputs": {
+      "en": [
+        "How do I contact Water And Wastewater Treatment Authority (WWTA)?",
+        "What does the Water And Wastewater Treatment Authority (WWTA) do?",
+        "Water And Wastewater Treatment Authority (WWTA) hours"
+      ],
+      "es": [
+        "¿Cómo me comunico con Water And Wastewater Treatment Authority (Wwta)?",
+        "¿Qué hace el Water And Wastewater Treatment Authority (Wwta)?",
+        "¿Cuál es el horario de atención del Water And Wastewater Treatment Authority (Wwta)?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Water And Wastewater Treatment Authority (WWTA) at...",
+        "The Water And Wastewater Treatment Authority (WWTA) is responsible for...",
+        "Here are the office hours for Water And Wastewater Treatment Authority (WWTA)..."
+      ],
+      "es": [
+        "Puede comunicarse con Water And Wastewater Treatment Authority (Wwta) en...",
+        "El Water And Wastewater Treatment Authority (Wwta) es responsable de...",
+        "El horario de atención del Water And Wastewater Treatment Authority (Wwta) es..."
+      ]
+    }
+  }
+]

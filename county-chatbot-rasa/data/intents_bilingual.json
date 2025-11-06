@@ -1,0 +1,3077 @@
+[
+  {
+    "tag": "accounting",
+    "example_inputs": {
+      "en": [
+        "How do I contact Accounting?",
+        "What's the phone number for Accounting?",
+        "Where is Accounting located?",
+        "What does the Accounting do?",
+        "When is Accounting open?",
+        "What are the hours for Accounting?",
+        "I need to visit Accounting. How do I get there?",
+        "Do I need an appointment for Accounting?",
+        "Is Accounting open on weekends?",
+        "Can I get forms from Accounting online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Accounting?",
+        "¿Cuál es el número de teléfono de Accounting?",
+        "¿Dónde se encuentra Accounting?",
+        "¿Qué hace Accounting?",
+        "¿Cuál es el horario de atención de Accounting?",
+        "¿En qué horario atiende Accounting?",
+        "Necesito visitar Accounting. ¿Cómo llego?",
+        "¿Necesito cita para Accounting?",
+        "¿Atienden los fines de semana Accounting?",
+        "¿Puedo obtener formularios de Accounting en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Accounting at [phone] or email [email@county.gov].",
+        "The Accounting handles services related to Accounting.",
+        "Office hours for Accounting are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Accounting al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Accounting se encarga de servicios relacionados con Accounting.",
+        "El horario de atención del Accounting es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "ut_tsu_extension__hamilton_county",
+    "example_inputs": {
+      "en": [
+        "How do I contact UT/TSU Extension – Hamilton County?",
+        "What's the phone number for UT/TSU Extension – Hamilton County?",
+        "Where is UT/TSU Extension – Hamilton County located?",
+        "What does the UT/TSU Extension – Hamilton County do?",
+        "When is UT/TSU Extension – Hamilton County open?",
+        "What are the hours for UT/TSU Extension – Hamilton County?",
+        "I need to visit UT/TSU Extension – Hamilton County. How do I get there?",
+        "Do I need an appointment for UT/TSU Extension – Hamilton County?",
+        "Is UT/TSU Extension – Hamilton County open on weekends?",
+        "Can I get forms from UT/TSU Extension – Hamilton County online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con UT/TSU Extension – Hamilton County?",
+        "¿Cuál es el número de teléfono de UT/TSU Extension – Hamilton County?",
+        "¿Dónde se encuentra UT/TSU Extension – Hamilton County?",
+        "¿Qué hace UT/TSU Extension – Hamilton County?",
+        "¿Cuál es el horario de atención de UT/TSU Extension – Hamilton County?",
+        "¿En qué horario atiende UT/TSU Extension – Hamilton County?",
+        "Necesito visitar UT/TSU Extension – Hamilton County. ¿Cómo llego?",
+        "¿Necesito cita para UT/TSU Extension – Hamilton County?",
+        "¿Atienden los fines de semana UT/TSU Extension – Hamilton County?",
+        "¿Puedo obtener formularios de UT/TSU Extension – Hamilton County en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact UT/TSU Extension – Hamilton County at [phone] or email [email@county.gov].",
+        "The UT/TSU Extension – Hamilton County handles services related to UT/TSU.",
+        "Office hours for UT/TSU Extension – Hamilton County are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con UT/TSU Extension – Hamilton County al [teléfono] o por correo electrónico [email@county.gov].",
+        "El UT/TSU Extension – Hamilton County se encarga de servicios relacionados con UT/TSU.",
+        "El horario de atención del UT/TSU Extension – Hamilton County es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "alternative_sentencing",
+    "example_inputs": {
+      "en": [
+        "How do I contact Alternative Sentencing?",
+        "What's the phone number for Alternative Sentencing?",
+        "Where is Alternative Sentencing located?",
+        "What does the Alternative Sentencing do?",
+        "When is Alternative Sentencing open?",
+        "What are the hours for Alternative Sentencing?",
+        "I need to visit Alternative Sentencing. How do I get there?",
+        "Do I need an appointment for Alternative Sentencing?",
+        "Is Alternative Sentencing open on weekends?",
+        "Can I get forms from Alternative Sentencing online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Alternative Sentencing?",
+        "¿Cuál es el número de teléfono de Alternative Sentencing?",
+        "¿Dónde se encuentra Alternative Sentencing?",
+        "¿Qué hace Alternative Sentencing?",
+        "¿Cuál es el horario de atención de Alternative Sentencing?",
+        "¿En qué horario atiende Alternative Sentencing?",
+        "Necesito visitar Alternative Sentencing. ¿Cómo llego?",
+        "¿Necesito cita para Alternative Sentencing?",
+        "¿Atienden los fines de semana Alternative Sentencing?",
+        "¿Puedo obtener formularios de Alternative Sentencing en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Alternative Sentencing at [phone] or email [email@county.gov].",
+        "The Alternative Sentencing handles services related to Alternative.",
+        "Office hours for Alternative Sentencing are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Alternative Sentencing al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Alternative Sentencing se encarga de servicios relacionados con Alternative.",
+        "El horario de atención del Alternative Sentencing es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "assessor_of_property",
+    "example_inputs": {
+      "en": [
+        "How do I contact Assessor of Property?",
+        "What's the phone number for Assessor of Property?",
+        "Where is Assessor of Property located?",
+        "What does the Assessor of Property do?",
+        "When is Assessor of Property open?",
+        "What are the hours for Assessor of Property?",
+        "I need to visit Assessor of Property. How do I get there?",
+        "Do I need an appointment for Assessor of Property?",
+        "Is Assessor of Property open on weekends?",
+        "Can I get forms from Assessor of Property online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Assessor of Property?",
+        "¿Cuál es el número de teléfono de Assessor of Property?",
+        "¿Dónde se encuentra Assessor of Property?",
+        "¿Qué hace Assessor of Property?",
+        "¿Cuál es el horario de atención de Assessor of Property?",
+        "¿En qué horario atiende Assessor of Property?",
+        "Necesito visitar Assessor of Property. ¿Cómo llego?",
+        "¿Necesito cita para Assessor of Property?",
+        "¿Atienden los fines de semana Assessor of Property?",
+        "¿Puedo obtener formularios de Assessor of Property en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Assessor of Property at [phone] or email [email@county.gov].",
+        "The Assessor of Property handles services related to Assessor.",
+        "Office hours for Assessor of Property are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Assessor of Property al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Assessor of Property se encarga de servicios relacionados con Assessor.",
+        "El horario de atención del Assessor of Property es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "building_inspection_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Building Inspection Department?",
+        "What's the phone number for Building Inspection Department?",
+        "Where is Building Inspection Department located?",
+        "What does the Building Inspection Department do?",
+        "When is Building Inspection Department open?",
+        "What are the hours for Building Inspection Department?",
+        "I need to visit Building Inspection Department. How do I get there?",
+        "Do I need an appointment for Building Inspection Department?",
+        "Is Building Inspection Department open on weekends?",
+        "Can I get forms from Building Inspection Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Building Inspection Department?",
+        "¿Cuál es el número de teléfono de Building Inspection Department?",
+        "¿Dónde se encuentra Building Inspection Department?",
+        "¿Qué hace Building Inspection Department?",
+        "¿Cuál es el horario de atención de Building Inspection Department?",
+        "¿En qué horario atiende Building Inspection Department?",
+        "Necesito visitar Building Inspection Department. ¿Cómo llego?",
+        "¿Necesito cita para Building Inspection Department?",
+        "¿Atienden los fines de semana Building Inspection Department?",
+        "¿Puedo obtener formularios de Building Inspection Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Building Inspection Department at [phone] or email [email@county.gov].",
+        "The Building Inspection Department handles services related to Building.",
+        "Office hours for Building Inspection Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Building Inspection Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Building Inspection Department se encarga de servicios relacionados con Building.",
+        "El horario de atención del Building Inspection Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "chester_frost_park",
+    "example_inputs": {
+      "en": [
+        "How do I contact Chester Frost Park?",
+        "What's the phone number for Chester Frost Park?",
+        "Where is Chester Frost Park located?",
+        "What does the Chester Frost Park do?",
+        "When is Chester Frost Park open?",
+        "What are the hours for Chester Frost Park?",
+        "I need to visit Chester Frost Park. How do I get there?",
+        "Do I need an appointment for Chester Frost Park?",
+        "Is Chester Frost Park open on weekends?",
+        "Can I get forms from Chester Frost Park online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Chester Frost Park?",
+        "¿Cuál es el número de teléfono de Chester Frost Park?",
+        "¿Dónde se encuentra Chester Frost Park?",
+        "¿Qué hace Chester Frost Park?",
+        "¿Cuál es el horario de atención de Chester Frost Park?",
+        "¿En qué horario atiende Chester Frost Park?",
+        "Necesito visitar Chester Frost Park. ¿Cómo llego?",
+        "¿Necesito cita para Chester Frost Park?",
+        "¿Atienden los fines de semana Chester Frost Park?",
+        "¿Puedo obtener formularios de Chester Frost Park en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Chester Frost Park at [phone] or email [email@county.gov].",
+        "The Chester Frost Park handles services related to Chester.",
+        "Office hours for Chester Frost Park are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Chester Frost Park al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Chester Frost Park se encarga de servicios relacionados con Chester.",
+        "El horario de atención del Chester Frost Park es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "chancery_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Chancery Court?",
+        "What's the phone number for Chancery Court?",
+        "Where is Chancery Court located?",
+        "What does the Chancery Court do?",
+        "When is Chancery Court open?",
+        "What are the hours for Chancery Court?",
+        "I need to visit Chancery Court. How do I get there?",
+        "Do I need an appointment for Chancery Court?",
+        "Is Chancery Court open on weekends?",
+        "Can I get forms from Chancery Court online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Chancery Court?",
+        "¿Cuál es el número de teléfono de Chancery Court?",
+        "¿Dónde se encuentra Chancery Court?",
+        "¿Qué hace Chancery Court?",
+        "¿Cuál es el horario de atención de Chancery Court?",
+        "¿En qué horario atiende Chancery Court?",
+        "Necesito visitar Chancery Court. ¿Cómo llego?",
+        "¿Necesito cita para Chancery Court?",
+        "¿Atienden los fines de semana Chancery Court?",
+        "¿Puedo obtener formularios de Chancery Court en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Chancery Court at [phone] or email [email@county.gov].",
+        "The Chancery Court handles services related to Chancery.",
+        "Office hours for Chancery Court are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Chancery Court al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Chancery Court se encarga de servicios relacionados con Chancery.",
+        "El horario de atención del Chancery Court es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "chcrpa",
+    "example_inputs": {
+      "en": [
+        "How do I contact CHCRPA?",
+        "What's the phone number for CHCRPA?",
+        "Where is CHCRPA located?",
+        "What does the CHCRPA do?",
+        "When is CHCRPA open?",
+        "What are the hours for CHCRPA?",
+        "I need to visit CHCRPA. How do I get there?",
+        "Do I need an appointment for CHCRPA?",
+        "Is CHCRPA open on weekends?",
+        "Can I get forms from CHCRPA online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con CHCRPA?",
+        "¿Cuál es el número de teléfono de CHCRPA?",
+        "¿Dónde se encuentra CHCRPA?",
+        "¿Qué hace CHCRPA?",
+        "¿Cuál es el horario de atención de CHCRPA?",
+        "¿En qué horario atiende CHCRPA?",
+        "Necesito visitar CHCRPA. ¿Cómo llego?",
+        "¿Necesito cita para CHCRPA?",
+        "¿Atienden los fines de semana CHCRPA?",
+        "¿Puedo obtener formularios de CHCRPA en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact CHCRPA at [phone] or email [email@county.gov].",
+        "The CHCRPA handles services related to CHCRPA.",
+        "Office hours for CHCRPA are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con CHCRPA al [teléfono] o por correo electrónico [email@county.gov].",
+        "El CHCRPA se encarga de servicios relacionados con CHCRPA.",
+        "El horario de atención del CHCRPA es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "chief_of_staff",
+    "example_inputs": {
+      "en": [
+        "How do I contact Chief of Staff?",
+        "What's the phone number for Chief of Staff?",
+        "Where is Chief of Staff located?",
+        "What does the Chief of Staff do?",
+        "When is Chief of Staff open?",
+        "What are the hours for Chief of Staff?",
+        "I need to visit Chief of Staff. How do I get there?",
+        "Do I need an appointment for Chief of Staff?",
+        "Is Chief of Staff open on weekends?",
+        "Can I get forms from Chief of Staff online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Chief of Staff?",
+        "¿Cuál es el número de teléfono de Chief of Staff?",
+        "¿Dónde se encuentra Chief of Staff?",
+        "¿Qué hace Chief of Staff?",
+        "¿Cuál es el horario de atención de Chief of Staff?",
+        "¿En qué horario atiende Chief of Staff?",
+        "Necesito visitar Chief of Staff. ¿Cómo llego?",
+        "¿Necesito cita para Chief of Staff?",
+        "¿Atienden los fines de semana Chief of Staff?",
+        "¿Puedo obtener formularios de Chief of Staff en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Chief of Staff at [phone] or email [email@county.gov].",
+        "The Chief of Staff handles services related to Chief.",
+        "Office hours for Chief of Staff are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Chief of Staff al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Chief of Staff se encarga de servicios relacionados con Chief.",
+        "El horario de atención del Chief of Staff es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "circuit_court_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact Circuit Court Clerk?",
+        "What's the phone number for Circuit Court Clerk?",
+        "Where is Circuit Court Clerk located?",
+        "What does the Circuit Court Clerk do?",
+        "When is Circuit Court Clerk open?",
+        "What are the hours for Circuit Court Clerk?",
+        "I need to visit Circuit Court Clerk. How do I get there?",
+        "Do I need an appointment for Circuit Court Clerk?",
+        "Is Circuit Court Clerk open on weekends?",
+        "Can I get forms from Circuit Court Clerk online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Circuit Court Clerk?",
+        "¿Cuál es el número de teléfono de Circuit Court Clerk?",
+        "¿Dónde se encuentra Circuit Court Clerk?",
+        "¿Qué hace Circuit Court Clerk?",
+        "¿Cuál es el horario de atención de Circuit Court Clerk?",
+        "¿En qué horario atiende Circuit Court Clerk?",
+        "Necesito visitar Circuit Court Clerk. ¿Cómo llego?",
+        "¿Necesito cita para Circuit Court Clerk?",
+        "¿Atienden los fines de semana Circuit Court Clerk?",
+        "¿Puedo obtener formularios de Circuit Court Clerk en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Circuit Court Clerk at [phone] or email [email@county.gov].",
+        "The Circuit Court Clerk handles services related to Circuit.",
+        "Office hours for Circuit Court Clerk are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Circuit Court Clerk al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Circuit Court Clerk se encarga de servicios relacionados con Circuit.",
+        "El horario de atención del Circuit Court Clerk es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "circuit_court_judges",
+    "example_inputs": {
+      "en": [
+        "How do I contact Circuit Court Judges?",
+        "What's the phone number for Circuit Court Judges?",
+        "Where is Circuit Court Judges located?",
+        "What does the Circuit Court Judges do?",
+        "When is Circuit Court Judges open?",
+        "What are the hours for Circuit Court Judges?",
+        "I need to visit Circuit Court Judges. How do I get there?",
+        "Do I need an appointment for Circuit Court Judges?",
+        "Is Circuit Court Judges open on weekends?",
+        "Can I get forms from Circuit Court Judges online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Circuit Court Judges?",
+        "¿Cuál es el número de teléfono de Circuit Court Judges?",
+        "¿Dónde se encuentra Circuit Court Judges?",
+        "¿Qué hace Circuit Court Judges?",
+        "¿Cuál es el horario de atención de Circuit Court Judges?",
+        "¿En qué horario atiende Circuit Court Judges?",
+        "Necesito visitar Circuit Court Judges. ¿Cómo llego?",
+        "¿Necesito cita para Circuit Court Judges?",
+        "¿Atienden los fines de semana Circuit Court Judges?",
+        "¿Puedo obtener formularios de Circuit Court Judges en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Circuit Court Judges at [phone] or email [email@county.gov].",
+        "The Circuit Court Judges handles services related to Circuit.",
+        "Office hours for Circuit Court Judges are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Circuit Court Judges al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Circuit Court Judges se encarga de servicios relacionados con Circuit.",
+        "El horario de atención del Circuit Court Judges es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "clerk_and_master",
+    "example_inputs": {
+      "en": [
+        "How do I contact Clerk And Master?",
+        "What's the phone number for Clerk And Master?",
+        "Where is Clerk And Master located?",
+        "What does the Clerk And Master do?",
+        "When is Clerk And Master open?",
+        "What are the hours for Clerk And Master?",
+        "I need to visit Clerk And Master. How do I get there?",
+        "Do I need an appointment for Clerk And Master?",
+        "Is Clerk And Master open on weekends?",
+        "Can I get forms from Clerk And Master online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Clerk And Master?",
+        "¿Cuál es el número de teléfono de Clerk And Master?",
+        "¿Dónde se encuentra Clerk And Master?",
+        "¿Qué hace Clerk And Master?",
+        "¿Cuál es el horario de atención de Clerk And Master?",
+        "¿En qué horario atiende Clerk And Master?",
+        "Necesito visitar Clerk And Master. ¿Cómo llego?",
+        "¿Necesito cita para Clerk And Master?",
+        "¿Atienden los fines de semana Clerk And Master?",
+        "¿Puedo obtener formularios de Clerk And Master en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Clerk And Master at [phone] or email [email@county.gov].",
+        "The Clerk And Master handles services related to Clerk.",
+        "Office hours for Clerk And Master are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Clerk And Master al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Clerk And Master se encarga de servicios relacionados con Clerk.",
+        "El horario de atención del Clerk And Master es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "community_and_economic_development_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Community and Economic Development Department?",
+        "What's the phone number for Community and Economic Development Department?",
+        "Where is Community and Economic Development Department located?",
+        "What does the Community and Economic Development Department do?",
+        "When is Community and Economic Development Department open?",
+        "What are the hours for Community and Economic Development Department?",
+        "I need to visit Community and Economic Development Department. How do I get there?",
+        "Do I need an appointment for Community and Economic Development Department?",
+        "Is Community and Economic Development Department open on weekends?",
+        "Can I get forms from Community and Economic Development Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Community and Economic Development Department?",
+        "¿Cuál es el número de teléfono de Community and Economic Development Department?",
+        "¿Dónde se encuentra Community and Economic Development Department?",
+        "¿Qué hace Community and Economic Development Department?",
+        "¿Cuál es el horario de atención de Community and Economic Development Department?",
+        "¿En qué horario atiende Community and Economic Development Department?",
+        "Necesito visitar Community and Economic Development Department. ¿Cómo llego?",
+        "¿Necesito cita para Community and Economic Development Department?",
+        "¿Atienden los fines de semana Community and Economic Development Department?",
+        "¿Puedo obtener formularios de Community and Economic Development Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Community and Economic Development Department at [phone] or email [email@county.gov].",
+        "The Community and Economic Development Department handles services related to Community.",
+        "Office hours for Community and Economic Development Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Community and Economic Development Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Community and Economic Development Department se encarga de servicios relacionados con Community.",
+        "El horario de atención del Community and Economic Development Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "county_attorney",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Attorney?",
+        "What's the phone number for County Attorney?",
+        "Where is County Attorney located?",
+        "What does the County Attorney do?",
+        "When is County Attorney open?",
+        "What are the hours for County Attorney?",
+        "I need to visit County Attorney. How do I get there?",
+        "Do I need an appointment for County Attorney?",
+        "Is County Attorney open on weekends?",
+        "Can I get forms from County Attorney online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Attorney?",
+        "¿Cuál es el número de teléfono de County Attorney?",
+        "¿Dónde se encuentra County Attorney?",
+        "¿Qué hace County Attorney?",
+        "¿Cuál es el horario de atención de County Attorney?",
+        "¿En qué horario atiende County Attorney?",
+        "Necesito visitar County Attorney. ¿Cómo llego?",
+        "¿Necesito cita para County Attorney?",
+        "¿Atienden los fines de semana County Attorney?",
+        "¿Puedo obtener formularios de County Attorney en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Attorney at [phone] or email [email@county.gov].",
+        "The County Attorney handles services related to County.",
+        "Office hours for County Attorney are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con County Attorney al [teléfono] o por correo electrónico [email@county.gov].",
+        "El County Attorney se encarga de servicios relacionados con County.",
+        "El horario de atención del County Attorney es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "county_auditor's_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Auditor's Office?",
+        "What's the phone number for County Auditor's Office?",
+        "Where is County Auditor's Office located?",
+        "What does the County Auditor's Office do?",
+        "When is County Auditor's Office open?",
+        "What are the hours for County Auditor's Office?",
+        "I need to visit County Auditor's Office. How do I get there?",
+        "Do I need an appointment for County Auditor's Office?",
+        "Is County Auditor's Office open on weekends?",
+        "Can I get forms from County Auditor's Office online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Auditor's Office?",
+        "¿Cuál es el número de teléfono de County Auditor's Office?",
+        "¿Dónde se encuentra County Auditor's Office?",
+        "¿Qué hace County Auditor's Office?",
+        "¿Cuál es el horario de atención de County Auditor's Office?",
+        "¿En qué horario atiende County Auditor's Office?",
+        "Necesito visitar County Auditor's Office. ¿Cómo llego?",
+        "¿Necesito cita para County Auditor's Office?",
+        "¿Atienden los fines de semana County Auditor's Office?",
+        "¿Puedo obtener formularios de County Auditor's Office en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Auditor's Office at [phone] or email [email@county.gov].",
+        "The County Auditor's Office handles services related to County.",
+        "Office hours for County Auditor's Office are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con County Auditor's Office al [teléfono] o por correo electrónico [email@county.gov].",
+        "El County Auditor's Office se encarga de servicios relacionados con County.",
+        "El horario de atención del County Auditor's Office es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "county_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Clerk?",
+        "What's the phone number for County Clerk?",
+        "Where is County Clerk located?",
+        "What does the County Clerk do?",
+        "When is County Clerk open?",
+        "What are the hours for County Clerk?",
+        "I need to visit County Clerk. How do I get there?",
+        "Do I need an appointment for County Clerk?",
+        "Is County Clerk open on weekends?",
+        "Can I get forms from County Clerk online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Clerk?",
+        "¿Cuál es el número de teléfono de County Clerk?",
+        "¿Dónde se encuentra County Clerk?",
+        "¿Qué hace County Clerk?",
+        "¿Cuál es el horario de atención de County Clerk?",
+        "¿En qué horario atiende County Clerk?",
+        "Necesito visitar County Clerk. ¿Cómo llego?",
+        "¿Necesito cita para County Clerk?",
+        "¿Atienden los fines de semana County Clerk?",
+        "¿Puedo obtener formularios de County Clerk en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Clerk at [phone] or email [email@county.gov].",
+        "The County Clerk handles services related to County.",
+        "Office hours for County Clerk are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con County Clerk al [teléfono] o por correo electrónico [email@county.gov].",
+        "El County Clerk se encarga de servicios relacionados con County.",
+        "El horario de atención del County Clerk es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "county_commission",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Commission?",
+        "What's the phone number for County Commission?",
+        "Where is County Commission located?",
+        "What does the County Commission do?",
+        "When is County Commission open?",
+        "What are the hours for County Commission?",
+        "I need to visit County Commission. How do I get there?",
+        "Do I need an appointment for County Commission?",
+        "Is County Commission open on weekends?",
+        "Can I get forms from County Commission online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Commission?",
+        "¿Cuál es el número de teléfono de County Commission?",
+        "¿Dónde se encuentra County Commission?",
+        "¿Qué hace County Commission?",
+        "¿Cuál es el horario de atención de County Commission?",
+        "¿En qué horario atiende County Commission?",
+        "Necesito visitar County Commission. ¿Cómo llego?",
+        "¿Necesito cita para County Commission?",
+        "¿Atienden los fines de semana County Commission?",
+        "¿Puedo obtener formularios de County Commission en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Commission at [phone] or email [email@county.gov].",
+        "The County Commission handles services related to County.",
+        "Office hours for County Commission are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con County Commission al [teléfono] o por correo electrónico [email@county.gov].",
+        "El County Commission se encarga de servicios relacionados con County.",
+        "El horario de atención del County Commission es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "county_mayor",
+    "example_inputs": {
+      "en": [
+        "How do I contact County Mayor?",
+        "What's the phone number for County Mayor?",
+        "Where is County Mayor located?",
+        "What does the County Mayor do?",
+        "When is County Mayor open?",
+        "What are the hours for County Mayor?",
+        "I need to visit County Mayor. How do I get there?",
+        "Do I need an appointment for County Mayor?",
+        "Is County Mayor open on weekends?",
+        "Can I get forms from County Mayor online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con County Mayor?",
+        "¿Cuál es el número de teléfono de County Mayor?",
+        "¿Dónde se encuentra County Mayor?",
+        "¿Qué hace County Mayor?",
+        "¿Cuál es el horario de atención de County Mayor?",
+        "¿En qué horario atiende County Mayor?",
+        "Necesito visitar County Mayor. ¿Cómo llego?",
+        "¿Necesito cita para County Mayor?",
+        "¿Atienden los fines de semana County Mayor?",
+        "¿Puedo obtener formularios de County Mayor en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact County Mayor at [phone] or email [email@county.gov].",
+        "The County Mayor handles services related to County.",
+        "Office hours for County Mayor are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con County Mayor al [teléfono] o por correo electrónico [email@county.gov].",
+        "El County Mayor se encarga de servicios relacionados con County.",
+        "El horario de atención del County Mayor es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "criminal_court_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact Criminal Court Clerk?",
+        "What's the phone number for Criminal Court Clerk?",
+        "Where is Criminal Court Clerk located?",
+        "What does the Criminal Court Clerk do?",
+        "When is Criminal Court Clerk open?",
+        "What are the hours for Criminal Court Clerk?",
+        "I need to visit Criminal Court Clerk. How do I get there?",
+        "Do I need an appointment for Criminal Court Clerk?",
+        "Is Criminal Court Clerk open on weekends?",
+        "Can I get forms from Criminal Court Clerk online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Criminal Court Clerk?",
+        "¿Cuál es el número de teléfono de Criminal Court Clerk?",
+        "¿Dónde se encuentra Criminal Court Clerk?",
+        "¿Qué hace Criminal Court Clerk?",
+        "¿Cuál es el horario de atención de Criminal Court Clerk?",
+        "¿En qué horario atiende Criminal Court Clerk?",
+        "Necesito visitar Criminal Court Clerk. ¿Cómo llego?",
+        "¿Necesito cita para Criminal Court Clerk?",
+        "¿Atienden los fines de semana Criminal Court Clerk?",
+        "¿Puedo obtener formularios de Criminal Court Clerk en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Criminal Court Clerk at [phone] or email [email@county.gov].",
+        "The Criminal Court Clerk handles services related to Criminal.",
+        "Office hours for Criminal Court Clerk are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Criminal Court Clerk al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Criminal Court Clerk se encarga de servicios relacionados con Criminal.",
+        "El horario de atención del Criminal Court Clerk es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "criminal_court_clerk_expungement_center",
+    "example_inputs": {
+      "en": [
+        "How do I contact Criminal Court Clerk Expungement Center?",
+        "What's the phone number for Criminal Court Clerk Expungement Center?",
+        "Where is Criminal Court Clerk Expungement Center located?",
+        "What does the Criminal Court Clerk Expungement Center do?",
+        "When is Criminal Court Clerk Expungement Center open?",
+        "What are the hours for Criminal Court Clerk Expungement Center?",
+        "I need to visit Criminal Court Clerk Expungement Center. How do I get there?",
+        "Do I need an appointment for Criminal Court Clerk Expungement Center?",
+        "Is Criminal Court Clerk Expungement Center open on weekends?",
+        "Can I get forms from Criminal Court Clerk Expungement Center online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Criminal Court Clerk Expungement Center?",
+        "¿Cuál es el número de teléfono de Criminal Court Clerk Expungement Center?",
+        "¿Dónde se encuentra Criminal Court Clerk Expungement Center?",
+        "¿Qué hace Criminal Court Clerk Expungement Center?",
+        "¿Cuál es el horario de atención de Criminal Court Clerk Expungement Center?",
+        "¿En qué horario atiende Criminal Court Clerk Expungement Center?",
+        "Necesito visitar Criminal Court Clerk Expungement Center. ¿Cómo llego?",
+        "¿Necesito cita para Criminal Court Clerk Expungement Center?",
+        "¿Atienden los fines de semana Criminal Court Clerk Expungement Center?",
+        "¿Puedo obtener formularios de Criminal Court Clerk Expungement Center en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Criminal Court Clerk Expungement Center at [phone] or email [email@county.gov].",
+        "The Criminal Court Clerk Expungement Center handles services related to Criminal.",
+        "Office hours for Criminal Court Clerk Expungement Center are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Criminal Court Clerk Expungement Center al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Criminal Court Clerk Expungement Center se encarga de servicios relacionados con Criminal.",
+        "El horario de atención del Criminal Court Clerk Expungement Center es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "criminal_court_clerk_payment_center",
+    "example_inputs": {
+      "en": [
+        "How do I contact Criminal Court Clerk Payment Center?",
+        "What's the phone number for Criminal Court Clerk Payment Center?",
+        "Where is Criminal Court Clerk Payment Center located?",
+        "What does the Criminal Court Clerk Payment Center do?",
+        "When is Criminal Court Clerk Payment Center open?",
+        "What are the hours for Criminal Court Clerk Payment Center?",
+        "I need to visit Criminal Court Clerk Payment Center. How do I get there?",
+        "Do I need an appointment for Criminal Court Clerk Payment Center?",
+        "Is Criminal Court Clerk Payment Center open on weekends?",
+        "Can I get forms from Criminal Court Clerk Payment Center online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Criminal Court Clerk Payment Center?",
+        "¿Cuál es el número de teléfono de Criminal Court Clerk Payment Center?",
+        "¿Dónde se encuentra Criminal Court Clerk Payment Center?",
+        "¿Qué hace Criminal Court Clerk Payment Center?",
+        "¿Cuál es el horario de atención de Criminal Court Clerk Payment Center?",
+        "¿En qué horario atiende Criminal Court Clerk Payment Center?",
+        "Necesito visitar Criminal Court Clerk Payment Center. ¿Cómo llego?",
+        "¿Necesito cita para Criminal Court Clerk Payment Center?",
+        "¿Atienden los fines de semana Criminal Court Clerk Payment Center?",
+        "¿Puedo obtener formularios de Criminal Court Clerk Payment Center en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Criminal Court Clerk Payment Center at [phone] or email [email@county.gov].",
+        "The Criminal Court Clerk Payment Center handles services related to Criminal.",
+        "Office hours for Criminal Court Clerk Payment Center are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Criminal Court Clerk Payment Center al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Criminal Court Clerk Payment Center se encarga de servicios relacionados con Criminal.",
+        "El horario de atención del Criminal Court Clerk Payment Center es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "criminal_court_judges",
+    "example_inputs": {
+      "en": [
+        "How do I contact Criminal Court Judges?",
+        "What's the phone number for Criminal Court Judges?",
+        "Where is Criminal Court Judges located?",
+        "What does the Criminal Court Judges do?",
+        "When is Criminal Court Judges open?",
+        "What are the hours for Criminal Court Judges?",
+        "I need to visit Criminal Court Judges. How do I get there?",
+        "Do I need an appointment for Criminal Court Judges?",
+        "Is Criminal Court Judges open on weekends?",
+        "Can I get forms from Criminal Court Judges online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Criminal Court Judges?",
+        "¿Cuál es el número de teléfono de Criminal Court Judges?",
+        "¿Dónde se encuentra Criminal Court Judges?",
+        "¿Qué hace Criminal Court Judges?",
+        "¿Cuál es el horario de atención de Criminal Court Judges?",
+        "¿En qué horario atiende Criminal Court Judges?",
+        "Necesito visitar Criminal Court Judges. ¿Cómo llego?",
+        "¿Necesito cita para Criminal Court Judges?",
+        "¿Atienden los fines de semana Criminal Court Judges?",
+        "¿Puedo obtener formularios de Criminal Court Judges en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Criminal Court Judges at [phone] or email [email@county.gov].",
+        "The Criminal Court Judges handles services related to Criminal.",
+        "Office hours for Criminal Court Judges are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Criminal Court Judges al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Criminal Court Judges se encarga de servicios relacionados con Criminal.",
+        "El horario de atención del Criminal Court Judges es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "development_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Development Department?",
+        "What's the phone number for Development Department?",
+        "Where is Development Department located?",
+        "What does the Development Department do?",
+        "When is Development Department open?",
+        "What are the hours for Development Department?",
+        "I need to visit Development Department. How do I get there?",
+        "Do I need an appointment for Development Department?",
+        "Is Development Department open on weekends?",
+        "Can I get forms from Development Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Development Department?",
+        "¿Cuál es el número de teléfono de Development Department?",
+        "¿Dónde se encuentra Development Department?",
+        "¿Qué hace Development Department?",
+        "¿Cuál es el horario de atención de Development Department?",
+        "¿En qué horario atiende Development Department?",
+        "Necesito visitar Development Department. ¿Cómo llego?",
+        "¿Necesito cita para Development Department?",
+        "¿Atienden los fines de semana Development Department?",
+        "¿Puedo obtener formularios de Development Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Development Department at [phone] or email [email@county.gov].",
+        "The Development Department handles services related to Development.",
+        "Office hours for Development Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Development Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Development Department se encarga de servicios relacionados con Development.",
+        "El horario de atención del Development Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "development_services",
+    "example_inputs": {
+      "en": [
+        "How do I contact Development Services?",
+        "What's the phone number for Development Services?",
+        "Where is Development Services located?",
+        "What does the Development Services do?",
+        "When is Development Services open?",
+        "What are the hours for Development Services?",
+        "I need to visit Development Services. How do I get there?",
+        "Do I need an appointment for Development Services?",
+        "Is Development Services open on weekends?",
+        "Can I get forms from Development Services online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Development Services?",
+        "¿Cuál es el número de teléfono de Development Services?",
+        "¿Dónde se encuentra Development Services?",
+        "¿Qué hace Development Services?",
+        "¿Cuál es el horario de atención de Development Services?",
+        "¿En qué horario atiende Development Services?",
+        "Necesito visitar Development Services. ¿Cómo llego?",
+        "¿Necesito cita para Development Services?",
+        "¿Atienden los fines de semana Development Services?",
+        "¿Puedo obtener formularios de Development Services en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Development Services at [phone] or email [email@county.gov].",
+        "The Development Services handles services related to Development.",
+        "Office hours for Development Services are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Development Services al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Development Services se encarga de servicios relacionados con Development.",
+        "El horario de atención del Development Services es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "district_attorney_general",
+    "example_inputs": {
+      "en": [
+        "How do I contact District Attorney General?",
+        "What's the phone number for District Attorney General?",
+        "Where is District Attorney General located?",
+        "What does the District Attorney General do?",
+        "When is District Attorney General open?",
+        "What are the hours for District Attorney General?",
+        "I need to visit District Attorney General. How do I get there?",
+        "Do I need an appointment for District Attorney General?",
+        "Is District Attorney General open on weekends?",
+        "Can I get forms from District Attorney General online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con District Attorney General?",
+        "¿Cuál es el número de teléfono de District Attorney General?",
+        "¿Dónde se encuentra District Attorney General?",
+        "¿Qué hace District Attorney General?",
+        "¿Cuál es el horario de atención de District Attorney General?",
+        "¿En qué horario atiende District Attorney General?",
+        "Necesito visitar District Attorney General. ¿Cómo llego?",
+        "¿Necesito cita para District Attorney General?",
+        "¿Atienden los fines de semana District Attorney General?",
+        "¿Puedo obtener formularios de District Attorney General en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact District Attorney General at [phone] or email [email@county.gov].",
+        "The District Attorney General handles services related to District.",
+        "Office hours for District Attorney General are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con District Attorney General al [teléfono] o por correo electrónico [email@county.gov].",
+        "El District Attorney General se encarga de servicios relacionados con District.",
+        "El horario de atención del District Attorney General es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "drug_recovery_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Drug Recovery Court?",
+        "What's the phone number for Drug Recovery Court?",
+        "Where is Drug Recovery Court located?",
+        "What does the Drug Recovery Court do?",
+        "When is Drug Recovery Court open?",
+        "What are the hours for Drug Recovery Court?",
+        "I need to visit Drug Recovery Court. How do I get there?",
+        "Do I need an appointment for Drug Recovery Court?",
+        "Is Drug Recovery Court open on weekends?",
+        "Can I get forms from Drug Recovery Court online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Drug Recovery Court?",
+        "¿Cuál es el número de teléfono de Drug Recovery Court?",
+        "¿Dónde se encuentra Drug Recovery Court?",
+        "¿Qué hace Drug Recovery Court?",
+        "¿Cuál es el horario de atención de Drug Recovery Court?",
+        "¿En qué horario atiende Drug Recovery Court?",
+        "Necesito visitar Drug Recovery Court. ¿Cómo llego?",
+        "¿Necesito cita para Drug Recovery Court?",
+        "¿Atienden los fines de semana Drug Recovery Court?",
+        "¿Puedo obtener formularios de Drug Recovery Court en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Drug Recovery Court at [phone] or email [email@county.gov].",
+        "The Drug Recovery Court handles services related to Drug.",
+        "Office hours for Drug Recovery Court are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Drug Recovery Court al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Drug Recovery Court se encarga de servicios relacionados con Drug.",
+        "El horario de atención del Drug Recovery Court es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "education_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Education Department?",
+        "What's the phone number for Education Department?",
+        "Where is Education Department located?",
+        "What does the Education Department do?",
+        "When is Education Department open?",
+        "What are the hours for Education Department?",
+        "I need to visit Education Department. How do I get there?",
+        "Do I need an appointment for Education Department?",
+        "Is Education Department open on weekends?",
+        "Can I get forms from Education Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Education Department?",
+        "¿Cuál es el número de teléfono de Education Department?",
+        "¿Dónde se encuentra Education Department?",
+        "¿Qué hace Education Department?",
+        "¿Cuál es el horario de atención de Education Department?",
+        "¿En qué horario atiende Education Department?",
+        "Necesito visitar Education Department. ¿Cómo llego?",
+        "¿Necesito cita para Education Department?",
+        "¿Atienden los fines de semana Education Department?",
+        "¿Puedo obtener formularios de Education Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Education Department at [phone] or email [email@county.gov].",
+        "The Education Department handles services related to Education.",
+        "Office hours for Education Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Education Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Education Department se encarga de servicios relacionados con Education.",
+        "El horario de atención del Education Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "election_commission",
+    "example_inputs": {
+      "en": [
+        "How do I contact Election Commission?",
+        "What's the phone number for Election Commission?",
+        "Where is Election Commission located?",
+        "What does the Election Commission do?",
+        "When is Election Commission open?",
+        "What are the hours for Election Commission?",
+        "I need to visit Election Commission. How do I get there?",
+        "Do I need an appointment for Election Commission?",
+        "Is Election Commission open on weekends?",
+        "Can I get forms from Election Commission online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Election Commission?",
+        "¿Cuál es el número de teléfono de Election Commission?",
+        "¿Dónde se encuentra Election Commission?",
+        "¿Qué hace Election Commission?",
+        "¿Cuál es el horario de atención de Election Commission?",
+        "¿En qué horario atiende Election Commission?",
+        "Necesito visitar Election Commission. ¿Cómo llego?",
+        "¿Necesito cita para Election Commission?",
+        "¿Atienden los fines de semana Election Commission?",
+        "¿Puedo obtener formularios de Election Commission en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Election Commission at [phone] or email [email@county.gov].",
+        "The Election Commission handles services related to Election.",
+        "Office hours for Election Commission are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Election Commission al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Election Commission se encarga de servicios relacionados con Election.",
+        "El horario de atención del Election Commission es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "emergency_management_and_homeland_security",
+    "example_inputs": {
+      "en": [
+        "How do I contact Emergency Management and Homeland Security?",
+        "What's the phone number for Emergency Management and Homeland Security?",
+        "Where is Emergency Management and Homeland Security located?",
+        "What does the Emergency Management and Homeland Security do?",
+        "When is Emergency Management and Homeland Security open?",
+        "What are the hours for Emergency Management and Homeland Security?",
+        "I need to visit Emergency Management and Homeland Security. How do I get there?",
+        "Do I need an appointment for Emergency Management and Homeland Security?",
+        "Is Emergency Management and Homeland Security open on weekends?",
+        "Can I get forms from Emergency Management and Homeland Security online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Emergency Management and Homeland Security?",
+        "¿Cuál es el número de teléfono de Emergency Management and Homeland Security?",
+        "¿Dónde se encuentra Emergency Management and Homeland Security?",
+        "¿Qué hace Emergency Management and Homeland Security?",
+        "¿Cuál es el horario de atención de Emergency Management and Homeland Security?",
+        "¿En qué horario atiende Emergency Management and Homeland Security?",
+        "Necesito visitar Emergency Management and Homeland Security. ¿Cómo llego?",
+        "¿Necesito cita para Emergency Management and Homeland Security?",
+        "¿Atienden los fines de semana Emergency Management and Homeland Security?",
+        "¿Puedo obtener formularios de Emergency Management and Homeland Security en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Emergency Management and Homeland Security at [phone] or email [email@county.gov].",
+        "The Emergency Management and Homeland Security handles services related to Emergency.",
+        "Office hours for Emergency Management and Homeland Security are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Emergency Management and Homeland Security al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Emergency Management and Homeland Security se encarga de servicios relacionados con Emergency.",
+        "El horario de atención del Emergency Management and Homeland Security es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "emergency_medical_services_ems",
+    "example_inputs": {
+      "en": [
+        "How do I contact Emergency Medical Services (EMS)?",
+        "What's the phone number for Emergency Medical Services (EMS)?",
+        "Where is Emergency Medical Services (EMS) located?",
+        "What does the Emergency Medical Services (EMS) do?",
+        "When is Emergency Medical Services (EMS) open?",
+        "What are the hours for Emergency Medical Services (EMS)?",
+        "I need to visit Emergency Medical Services (EMS). How do I get there?",
+        "Do I need an appointment for Emergency Medical Services (EMS)?",
+        "Is Emergency Medical Services (EMS) open on weekends?",
+        "Can I get forms from Emergency Medical Services (EMS) online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Emergency Medical Services (EMS)?",
+        "¿Cuál es el número de teléfono de Emergency Medical Services (EMS)?",
+        "¿Dónde se encuentra Emergency Medical Services (EMS)?",
+        "¿Qué hace Emergency Medical Services (EMS)?",
+        "¿Cuál es el horario de atención de Emergency Medical Services (EMS)?",
+        "¿En qué horario atiende Emergency Medical Services (EMS)?",
+        "Necesito visitar Emergency Medical Services (EMS). ¿Cómo llego?",
+        "¿Necesito cita para Emergency Medical Services (EMS)?",
+        "¿Atienden los fines de semana Emergency Medical Services (EMS)?",
+        "¿Puedo obtener formularios de Emergency Medical Services (EMS) en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Emergency Medical Services (EMS) at [phone] or email [email@county.gov].",
+        "The Emergency Medical Services (EMS) handles services related to Emergency.",
+        "Office hours for Emergency Medical Services (EMS) are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Emergency Medical Services (EMS) al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Emergency Medical Services (EMS) se encarga de servicios relacionados con Emergency.",
+        "El horario de atención del Emergency Medical Services (EMS) es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "engineering_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Engineering Department?",
+        "What's the phone number for Engineering Department?",
+        "Where is Engineering Department located?",
+        "What does the Engineering Department do?",
+        "When is Engineering Department open?",
+        "What are the hours for Engineering Department?",
+        "I need to visit Engineering Department. How do I get there?",
+        "Do I need an appointment for Engineering Department?",
+        "Is Engineering Department open on weekends?",
+        "Can I get forms from Engineering Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Engineering Department?",
+        "¿Cuál es el número de teléfono de Engineering Department?",
+        "¿Dónde se encuentra Engineering Department?",
+        "¿Qué hace Engineering Department?",
+        "¿Cuál es el horario de atención de Engineering Department?",
+        "¿En qué horario atiende Engineering Department?",
+        "Necesito visitar Engineering Department. ¿Cómo llego?",
+        "¿Necesito cita para Engineering Department?",
+        "¿Atienden los fines de semana Engineering Department?",
+        "¿Puedo obtener formularios de Engineering Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Engineering Department at [phone] or email [email@county.gov].",
+        "The Engineering Department handles services related to Engineering.",
+        "Office hours for Engineering Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Engineering Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Engineering Department se encarga de servicios relacionados con Engineering.",
+        "El horario de atención del Engineering Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "enterprise_south_nature_park",
+    "example_inputs": {
+      "en": [
+        "How do I contact Enterprise South Nature Park?",
+        "What's the phone number for Enterprise South Nature Park?",
+        "Where is Enterprise South Nature Park located?",
+        "What does the Enterprise South Nature Park do?",
+        "When is Enterprise South Nature Park open?",
+        "What are the hours for Enterprise South Nature Park?",
+        "I need to visit Enterprise South Nature Park. How do I get there?",
+        "Do I need an appointment for Enterprise South Nature Park?",
+        "Is Enterprise South Nature Park open on weekends?",
+        "Can I get forms from Enterprise South Nature Park online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Enterprise South Nature Park?",
+        "¿Cuál es el número de teléfono de Enterprise South Nature Park?",
+        "¿Dónde se encuentra Enterprise South Nature Park?",
+        "¿Qué hace Enterprise South Nature Park?",
+        "¿Cuál es el horario de atención de Enterprise South Nature Park?",
+        "¿En qué horario atiende Enterprise South Nature Park?",
+        "Necesito visitar Enterprise South Nature Park. ¿Cómo llego?",
+        "¿Necesito cita para Enterprise South Nature Park?",
+        "¿Atienden los fines de semana Enterprise South Nature Park?",
+        "¿Puedo obtener formularios de Enterprise South Nature Park en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Enterprise South Nature Park at [phone] or email [email@county.gov].",
+        "The Enterprise South Nature Park handles services related to Enterprise.",
+        "Office hours for Enterprise South Nature Park are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Enterprise South Nature Park al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Enterprise South Nature Park se encarga de servicios relacionados con Enterprise.",
+        "El horario de atención del Enterprise South Nature Park es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "equal_employment_opportunity_eeo",
+    "example_inputs": {
+      "en": [
+        "How do I contact Equal Employment Opportunity (EEO)?",
+        "What's the phone number for Equal Employment Opportunity (EEO)?",
+        "Where is Equal Employment Opportunity (EEO) located?",
+        "What does the Equal Employment Opportunity (EEO) do?",
+        "When is Equal Employment Opportunity (EEO) open?",
+        "What are the hours for Equal Employment Opportunity (EEO)?",
+        "I need to visit Equal Employment Opportunity (EEO). How do I get there?",
+        "Do I need an appointment for Equal Employment Opportunity (EEO)?",
+        "Is Equal Employment Opportunity (EEO) open on weekends?",
+        "Can I get forms from Equal Employment Opportunity (EEO) online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Equal Employment Opportunity (EEO)?",
+        "¿Cuál es el número de teléfono de Equal Employment Opportunity (EEO)?",
+        "¿Dónde se encuentra Equal Employment Opportunity (EEO)?",
+        "¿Qué hace Equal Employment Opportunity (EEO)?",
+        "¿Cuál es el horario de atención de Equal Employment Opportunity (EEO)?",
+        "¿En qué horario atiende Equal Employment Opportunity (EEO)?",
+        "Necesito visitar Equal Employment Opportunity (EEO). ¿Cómo llego?",
+        "¿Necesito cita para Equal Employment Opportunity (EEO)?",
+        "¿Atienden los fines de semana Equal Employment Opportunity (EEO)?",
+        "¿Puedo obtener formularios de Equal Employment Opportunity (EEO) en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Equal Employment Opportunity (EEO) at [phone] or email [email@county.gov].",
+        "The Equal Employment Opportunity (EEO) handles services related to Equal.",
+        "Office hours for Equal Employment Opportunity (EEO) are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Equal Employment Opportunity (EEO) al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Equal Employment Opportunity (EEO) se encarga de servicios relacionados con Equal.",
+        "El horario de atención del Equal Employment Opportunity (EEO) es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "facilities_maintenance_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Facilities Maintenance Department?",
+        "What's the phone number for Facilities Maintenance Department?",
+        "Where is Facilities Maintenance Department located?",
+        "What does the Facilities Maintenance Department do?",
+        "When is Facilities Maintenance Department open?",
+        "What are the hours for Facilities Maintenance Department?",
+        "I need to visit Facilities Maintenance Department. How do I get there?",
+        "Do I need an appointment for Facilities Maintenance Department?",
+        "Is Facilities Maintenance Department open on weekends?",
+        "Can I get forms from Facilities Maintenance Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Facilities Maintenance Department?",
+        "¿Cuál es el número de teléfono de Facilities Maintenance Department?",
+        "¿Dónde se encuentra Facilities Maintenance Department?",
+        "¿Qué hace Facilities Maintenance Department?",
+        "¿Cuál es el horario de atención de Facilities Maintenance Department?",
+        "¿En qué horario atiende Facilities Maintenance Department?",
+        "Necesito visitar Facilities Maintenance Department. ¿Cómo llego?",
+        "¿Necesito cita para Facilities Maintenance Department?",
+        "¿Atienden los fines de semana Facilities Maintenance Department?",
+        "¿Puedo obtener formularios de Facilities Maintenance Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Facilities Maintenance Department at [phone] or email [email@county.gov].",
+        "The Facilities Maintenance Department handles services related to Facilities.",
+        "Office hours for Facilities Maintenance Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Facilities Maintenance Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Facilities Maintenance Department se encarga de servicios relacionados con Facilities.",
+        "El horario de atención del Facilities Maintenance Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "finance_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact Finance Division?",
+        "What's the phone number for Finance Division?",
+        "Where is Finance Division located?",
+        "What does the Finance Division do?",
+        "When is Finance Division open?",
+        "What are the hours for Finance Division?",
+        "I need to visit Finance Division. How do I get there?",
+        "Do I need an appointment for Finance Division?",
+        "Is Finance Division open on weekends?",
+        "Can I get forms from Finance Division online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Finance Division?",
+        "¿Cuál es el número de teléfono de Finance Division?",
+        "¿Dónde se encuentra Finance Division?",
+        "¿Qué hace Finance Division?",
+        "¿Cuál es el horario de atención de Finance Division?",
+        "¿En qué horario atiende Finance Division?",
+        "Necesito visitar Finance Division. ¿Cómo llego?",
+        "¿Necesito cita para Finance Division?",
+        "¿Atienden los fines de semana Finance Division?",
+        "¿Puedo obtener formularios de Finance Division en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Finance Division at [phone] or email [email@county.gov].",
+        "The Finance Division handles services related to Finance.",
+        "Office hours for Finance Division are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Finance Division al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Finance Division se encarga de servicios relacionados con Finance.",
+        "El horario de atención del Finance Division es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "financial_management",
+    "example_inputs": {
+      "en": [
+        "How do I contact Financial Management?",
+        "What's the phone number for Financial Management?",
+        "Where is Financial Management located?",
+        "What does the Financial Management do?",
+        "When is Financial Management open?",
+        "What are the hours for Financial Management?",
+        "I need to visit Financial Management. How do I get there?",
+        "Do I need an appointment for Financial Management?",
+        "Is Financial Management open on weekends?",
+        "Can I get forms from Financial Management online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Financial Management?",
+        "¿Cuál es el número de teléfono de Financial Management?",
+        "¿Dónde se encuentra Financial Management?",
+        "¿Qué hace Financial Management?",
+        "¿Cuál es el horario de atención de Financial Management?",
+        "¿En qué horario atiende Financial Management?",
+        "Necesito visitar Financial Management. ¿Cómo llego?",
+        "¿Necesito cita para Financial Management?",
+        "¿Atienden los fines de semana Financial Management?",
+        "¿Puedo obtener formularios de Financial Management en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Financial Management at [phone] or email [email@county.gov].",
+        "The Financial Management handles services related to Financial.",
+        "Office hours for Financial Management are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Financial Management al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Financial Management se encarga de servicios relacionados con Financial.",
+        "El horario de atención del Financial Management es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "general_services_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact General Services Division?",
+        "What's the phone number for General Services Division?",
+        "Where is General Services Division located?",
+        "What does the General Services Division do?",
+        "When is General Services Division open?",
+        "What are the hours for General Services Division?",
+        "I need to visit General Services Division. How do I get there?",
+        "Do I need an appointment for General Services Division?",
+        "Is General Services Division open on weekends?",
+        "Can I get forms from General Services Division online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con General Services Division?",
+        "¿Cuál es el número de teléfono de General Services Division?",
+        "¿Dónde se encuentra General Services Division?",
+        "¿Qué hace General Services Division?",
+        "¿Cuál es el horario de atención de General Services Division?",
+        "¿En qué horario atiende General Services Division?",
+        "Necesito visitar General Services Division. ¿Cómo llego?",
+        "¿Necesito cita para General Services Division?",
+        "¿Atienden los fines de semana General Services Division?",
+        "¿Puedo obtener formularios de General Services Division en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact General Services Division at [phone] or email [email@county.gov].",
+        "The General Services Division handles services related to General.",
+        "Office hours for General Services Division are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con General Services Division al [teléfono] o por correo electrónico [email@county.gov].",
+        "El General Services Division se encarga de servicios relacionados con General.",
+        "El horario de atención del General Services Division es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "general_sessions_criminal_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact General Sessions Criminal Clerk?",
+        "What's the phone number for General Sessions Criminal Clerk?",
+        "Where is General Sessions Criminal Clerk located?",
+        "What does the General Sessions Criminal Clerk do?",
+        "When is General Sessions Criminal Clerk open?",
+        "What are the hours for General Sessions Criminal Clerk?",
+        "I need to visit General Sessions Criminal Clerk. How do I get there?",
+        "Do I need an appointment for General Sessions Criminal Clerk?",
+        "Is General Sessions Criminal Clerk open on weekends?",
+        "Can I get forms from General Sessions Criminal Clerk online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con General Sessions Criminal Clerk?",
+        "¿Cuál es el número de teléfono de General Sessions Criminal Clerk?",
+        "¿Dónde se encuentra General Sessions Criminal Clerk?",
+        "¿Qué hace General Sessions Criminal Clerk?",
+        "¿Cuál es el horario de atención de General Sessions Criminal Clerk?",
+        "¿En qué horario atiende General Sessions Criminal Clerk?",
+        "Necesito visitar General Sessions Criminal Clerk. ¿Cómo llego?",
+        "¿Necesito cita para General Sessions Criminal Clerk?",
+        "¿Atienden los fines de semana General Sessions Criminal Clerk?",
+        "¿Puedo obtener formularios de General Sessions Criminal Clerk en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact General Sessions Criminal Clerk at [phone] or email [email@county.gov].",
+        "The General Sessions Criminal Clerk handles services related to General.",
+        "Office hours for General Sessions Criminal Clerk are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con General Sessions Criminal Clerk al [teléfono] o por correo electrónico [email@county.gov].",
+        "El General Sessions Criminal Clerk se encarga de servicios relacionados con General.",
+        "El horario de atención del General Sessions Criminal Clerk es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "geospatial_technology",
+    "example_inputs": {
+      "en": [
+        "How do I contact Geospatial Technology?",
+        "What's the phone number for Geospatial Technology?",
+        "Where is Geospatial Technology located?",
+        "What does the Geospatial Technology do?",
+        "When is Geospatial Technology open?",
+        "What are the hours for Geospatial Technology?",
+        "I need to visit Geospatial Technology. How do I get there?",
+        "Do I need an appointment for Geospatial Technology?",
+        "Is Geospatial Technology open on weekends?",
+        "Can I get forms from Geospatial Technology online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Geospatial Technology?",
+        "¿Cuál es el número de teléfono de Geospatial Technology?",
+        "¿Dónde se encuentra Geospatial Technology?",
+        "¿Qué hace Geospatial Technology?",
+        "¿Cuál es el horario de atención de Geospatial Technology?",
+        "¿En qué horario atiende Geospatial Technology?",
+        "Necesito visitar Geospatial Technology. ¿Cómo llego?",
+        "¿Necesito cita para Geospatial Technology?",
+        "¿Atienden los fines de semana Geospatial Technology?",
+        "¿Puedo obtener formularios de Geospatial Technology en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Geospatial Technology at [phone] or email [email@county.gov].",
+        "The Geospatial Technology handles services related to Geospatial.",
+        "Office hours for Geospatial Technology are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Geospatial Technology al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Geospatial Technology se encarga de servicios relacionados con Geospatial.",
+        "El horario de atención del Geospatial Technology es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "ground_water",
+    "example_inputs": {
+      "en": [
+        "How do I contact Ground Water?",
+        "What's the phone number for Ground Water?",
+        "Where is Ground Water located?",
+        "What does the Ground Water do?",
+        "When is Ground Water open?",
+        "What are the hours for Ground Water?",
+        "I need to visit Ground Water. How do I get there?",
+        "Do I need an appointment for Ground Water?",
+        "Is Ground Water open on weekends?",
+        "Can I get forms from Ground Water online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Ground Water?",
+        "¿Cuál es el número de teléfono de Ground Water?",
+        "¿Dónde se encuentra Ground Water?",
+        "¿Qué hace Ground Water?",
+        "¿Cuál es el horario de atención de Ground Water?",
+        "¿En qué horario atiende Ground Water?",
+        "Necesito visitar Ground Water. ¿Cómo llego?",
+        "¿Necesito cita para Ground Water?",
+        "¿Atienden los fines de semana Ground Water?",
+        "¿Puedo obtener formularios de Ground Water en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Ground Water at [phone] or email [email@county.gov].",
+        "The Ground Water handles services related to Ground.",
+        "Office hours for Ground Water are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Ground Water al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Ground Water se encarga de servicios relacionados con Ground.",
+        "El horario de atención del Ground Water es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "health_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Health Department?",
+        "What's the phone number for Health Department?",
+        "Where is Health Department located?",
+        "What does the Health Department do?",
+        "When is Health Department open?",
+        "What are the hours for Health Department?",
+        "I need to visit Health Department. How do I get there?",
+        "Do I need an appointment for Health Department?",
+        "Is Health Department open on weekends?",
+        "Can I get forms from Health Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Health Department?",
+        "¿Cuál es el número de teléfono de Health Department?",
+        "¿Dónde se encuentra Health Department?",
+        "¿Qué hace Health Department?",
+        "¿Cuál es el horario de atención de Health Department?",
+        "¿En qué horario atiende Health Department?",
+        "Necesito visitar Health Department. ¿Cómo llego?",
+        "¿Necesito cita para Health Department?",
+        "¿Atienden los fines de semana Health Department?",
+        "¿Puedo obtener formularios de Health Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Health Department at [phone] or email [email@county.gov].",
+        "The Health Department handles services related to Health.",
+        "Office hours for Health Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Health Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Health Department se encarga de servicios relacionados con Health.",
+        "El horario de atención del Health Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "highway_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Highway Department?",
+        "What's the phone number for Highway Department?",
+        "Where is Highway Department located?",
+        "What does the Highway Department do?",
+        "When is Highway Department open?",
+        "What are the hours for Highway Department?",
+        "I need to visit Highway Department. How do I get there?",
+        "Do I need an appointment for Highway Department?",
+        "Is Highway Department open on weekends?",
+        "Can I get forms from Highway Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Highway Department?",
+        "¿Cuál es el número de teléfono de Highway Department?",
+        "¿Dónde se encuentra Highway Department?",
+        "¿Qué hace Highway Department?",
+        "¿Cuál es el horario de atención de Highway Department?",
+        "¿En qué horario atiende Highway Department?",
+        "Necesito visitar Highway Department. ¿Cómo llego?",
+        "¿Necesito cita para Highway Department?",
+        "¿Atienden los fines de semana Highway Department?",
+        "¿Puedo obtener formularios de Highway Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Highway Department at [phone] or email [email@county.gov].",
+        "The Highway Department handles services related to Highway.",
+        "Office hours for Highway Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Highway Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Highway Department se encarga de servicios relacionados con Highway.",
+        "El horario de atención del Highway Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "human_resources_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact Human Resources Division?",
+        "What's the phone number for Human Resources Division?",
+        "Where is Human Resources Division located?",
+        "What does the Human Resources Division do?",
+        "When is Human Resources Division open?",
+        "What are the hours for Human Resources Division?",
+        "I need to visit Human Resources Division. How do I get there?",
+        "Do I need an appointment for Human Resources Division?",
+        "Is Human Resources Division open on weekends?",
+        "Can I get forms from Human Resources Division online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Human Resources Division?",
+        "¿Cuál es el número de teléfono de Human Resources Division?",
+        "¿Dónde se encuentra Human Resources Division?",
+        "¿Qué hace Human Resources Division?",
+        "¿Cuál es el horario de atención de Human Resources Division?",
+        "¿En qué horario atiende Human Resources Division?",
+        "Necesito visitar Human Resources Division. ¿Cómo llego?",
+        "¿Necesito cita para Human Resources Division?",
+        "¿Atienden los fines de semana Human Resources Division?",
+        "¿Puedo obtener formularios de Human Resources Division en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Human Resources Division at [phone] or email [email@county.gov].",
+        "The Human Resources Division handles services related to Human.",
+        "Office hours for Human Resources Division are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Human Resources Division al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Human Resources Division se encarga de servicios relacionados con Human.",
+        "El horario de atención del Human Resources Division es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "information_technology_department_it",
+    "example_inputs": {
+      "en": [
+        "How do I contact Information Technology Department (IT)?",
+        "What's the phone number for Information Technology Department (IT)?",
+        "Where is Information Technology Department (IT) located?",
+        "What does the Information Technology Department (IT) do?",
+        "When is Information Technology Department (IT) open?",
+        "What are the hours for Information Technology Department (IT)?",
+        "I need to visit Information Technology Department (IT). How do I get there?",
+        "Do I need an appointment for Information Technology Department (IT)?",
+        "Is Information Technology Department (IT) open on weekends?",
+        "Can I get forms from Information Technology Department (IT) online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Information Technology Department (IT)?",
+        "¿Cuál es el número de teléfono de Information Technology Department (IT)?",
+        "¿Dónde se encuentra Information Technology Department (IT)?",
+        "¿Qué hace Information Technology Department (IT)?",
+        "¿Cuál es el horario de atención de Information Technology Department (IT)?",
+        "¿En qué horario atiende Information Technology Department (IT)?",
+        "Necesito visitar Information Technology Department (IT). ¿Cómo llego?",
+        "¿Necesito cita para Information Technology Department (IT)?",
+        "¿Atienden los fines de semana Information Technology Department (IT)?",
+        "¿Puedo obtener formularios de Information Technology Department (IT) en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Information Technology Department (IT) at [phone] or email [email@county.gov].",
+        "The Information Technology Department (IT) handles services related to Information.",
+        "Office hours for Information Technology Department (IT) are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Information Technology Department (IT) al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Information Technology Department (IT) se encarga de servicios relacionados con Information.",
+        "El horario de atención del Information Technology Department (IT) es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "judicial_commission_magistrates",
+    "example_inputs": {
+      "en": [
+        "How do I contact Judicial Commission Magistrates?",
+        "What's the phone number for Judicial Commission Magistrates?",
+        "Where is Judicial Commission Magistrates located?",
+        "What does the Judicial Commission Magistrates do?",
+        "When is Judicial Commission Magistrates open?",
+        "What are the hours for Judicial Commission Magistrates?",
+        "I need to visit Judicial Commission Magistrates. How do I get there?",
+        "Do I need an appointment for Judicial Commission Magistrates?",
+        "Is Judicial Commission Magistrates open on weekends?",
+        "Can I get forms from Judicial Commission Magistrates online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Judicial Commission Magistrates?",
+        "¿Cuál es el número de teléfono de Judicial Commission Magistrates?",
+        "¿Dónde se encuentra Judicial Commission Magistrates?",
+        "¿Qué hace Judicial Commission Magistrates?",
+        "¿Cuál es el horario de atención de Judicial Commission Magistrates?",
+        "¿En qué horario atiende Judicial Commission Magistrates?",
+        "Necesito visitar Judicial Commission Magistrates. ¿Cómo llego?",
+        "¿Necesito cita para Judicial Commission Magistrates?",
+        "¿Atienden los fines de semana Judicial Commission Magistrates?",
+        "¿Puedo obtener formularios de Judicial Commission Magistrates en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Judicial Commission Magistrates at [phone] or email [email@county.gov].",
+        "The Judicial Commission Magistrates handles services related to Judicial.",
+        "Office hours for Judicial Commission Magistrates are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Judicial Commission Magistrates al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Judicial Commission Magistrates se encarga de servicios relacionados con Judicial.",
+        "El horario de atención del Judicial Commission Magistrates es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "juvenile_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Juvenile Court?",
+        "What's the phone number for Juvenile Court?",
+        "Where is Juvenile Court located?",
+        "What does the Juvenile Court do?",
+        "When is Juvenile Court open?",
+        "What are the hours for Juvenile Court?",
+        "I need to visit Juvenile Court. How do I get there?",
+        "Do I need an appointment for Juvenile Court?",
+        "Is Juvenile Court open on weekends?",
+        "Can I get forms from Juvenile Court online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Juvenile Court?",
+        "¿Cuál es el número de teléfono de Juvenile Court?",
+        "¿Dónde se encuentra Juvenile Court?",
+        "¿Qué hace Juvenile Court?",
+        "¿Cuál es el horario de atención de Juvenile Court?",
+        "¿En qué horario atiende Juvenile Court?",
+        "Necesito visitar Juvenile Court. ¿Cómo llego?",
+        "¿Necesito cita para Juvenile Court?",
+        "¿Atienden los fines de semana Juvenile Court?",
+        "¿Puedo obtener formularios de Juvenile Court en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Juvenile Court at [phone] or email [email@county.gov].",
+        "The Juvenile Court handles services related to Juvenile.",
+        "Office hours for Juvenile Court are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Juvenile Court al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Juvenile Court se encarga de servicios relacionados con Juvenile.",
+        "El horario de atención del Juvenile Court es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "juvenile_court_clerk",
+    "example_inputs": {
+      "en": [
+        "How do I contact Juvenile Court Clerk?",
+        "What's the phone number for Juvenile Court Clerk?",
+        "Where is Juvenile Court Clerk located?",
+        "What does the Juvenile Court Clerk do?",
+        "When is Juvenile Court Clerk open?",
+        "What are the hours for Juvenile Court Clerk?",
+        "I need to visit Juvenile Court Clerk. How do I get there?",
+        "Do I need an appointment for Juvenile Court Clerk?",
+        "Is Juvenile Court Clerk open on weekends?",
+        "Can I get forms from Juvenile Court Clerk online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Juvenile Court Clerk?",
+        "¿Cuál es el número de teléfono de Juvenile Court Clerk?",
+        "¿Dónde se encuentra Juvenile Court Clerk?",
+        "¿Qué hace Juvenile Court Clerk?",
+        "¿Cuál es el horario de atención de Juvenile Court Clerk?",
+        "¿En qué horario atiende Juvenile Court Clerk?",
+        "Necesito visitar Juvenile Court Clerk. ¿Cómo llego?",
+        "¿Necesito cita para Juvenile Court Clerk?",
+        "¿Atienden los fines de semana Juvenile Court Clerk?",
+        "¿Puedo obtener formularios de Juvenile Court Clerk en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Juvenile Court Clerk at [phone] or email [email@county.gov].",
+        "The Juvenile Court Clerk handles services related to Juvenile.",
+        "Office hours for Juvenile Court Clerk are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Juvenile Court Clerk al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Juvenile Court Clerk se encarga de servicios relacionados con Juvenile.",
+        "El horario de atención del Juvenile Court Clerk es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "child_support_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact Child Support Division?",
+        "What's the phone number for Child Support Division?",
+        "Where is Child Support Division located?",
+        "What does the Child Support Division do?",
+        "When is Child Support Division open?",
+        "What are the hours for Child Support Division?",
+        "I need to visit Child Support Division. How do I get there?",
+        "Do I need an appointment for Child Support Division?",
+        "Is Child Support Division open on weekends?",
+        "Can I get forms from Child Support Division online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Child Support Division?",
+        "¿Cuál es el número de teléfono de Child Support Division?",
+        "¿Dónde se encuentra Child Support Division?",
+        "¿Qué hace Child Support Division?",
+        "¿Cuál es el horario de atención de Child Support Division?",
+        "¿En qué horario atiende Child Support Division?",
+        "Necesito visitar Child Support Division. ¿Cómo llego?",
+        "¿Necesito cita para Child Support Division?",
+        "¿Atienden los fines de semana Child Support Division?",
+        "¿Puedo obtener formularios de Child Support Division en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Child Support Division at [phone] or email [email@county.gov].",
+        "The Child Support Division handles services related to Child.",
+        "Office hours for Child Support Division are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Child Support Division al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Child Support Division se encarga de servicios relacionados con Child.",
+        "El horario de atención del Child Support Division es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "local_emergency_planning_committee_lepc",
+    "example_inputs": {
+      "en": [
+        "How do I contact Local Emergency Planning Committee (LEPC)?",
+        "What's the phone number for Local Emergency Planning Committee (LEPC)?",
+        "Where is Local Emergency Planning Committee (LEPC) located?",
+        "What does the Local Emergency Planning Committee (LEPC) do?",
+        "When is Local Emergency Planning Committee (LEPC) open?",
+        "What are the hours for Local Emergency Planning Committee (LEPC)?",
+        "I need to visit Local Emergency Planning Committee (LEPC). How do I get there?",
+        "Do I need an appointment for Local Emergency Planning Committee (LEPC)?",
+        "Is Local Emergency Planning Committee (LEPC) open on weekends?",
+        "Can I get forms from Local Emergency Planning Committee (LEPC) online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Local Emergency Planning Committee (LEPC)?",
+        "¿Cuál es el número de teléfono de Local Emergency Planning Committee (LEPC)?",
+        "¿Dónde se encuentra Local Emergency Planning Committee (LEPC)?",
+        "¿Qué hace Local Emergency Planning Committee (LEPC)?",
+        "¿Cuál es el horario de atención de Local Emergency Planning Committee (LEPC)?",
+        "¿En qué horario atiende Local Emergency Planning Committee (LEPC)?",
+        "Necesito visitar Local Emergency Planning Committee (LEPC). ¿Cómo llego?",
+        "¿Necesito cita para Local Emergency Planning Committee (LEPC)?",
+        "¿Atienden los fines de semana Local Emergency Planning Committee (LEPC)?",
+        "¿Puedo obtener formularios de Local Emergency Planning Committee (LEPC) en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Local Emergency Planning Committee (LEPC) at [phone] or email [email@county.gov].",
+        "The Local Emergency Planning Committee (LEPC) handles services related to Local.",
+        "Office hours for Local Emergency Planning Committee (LEPC) are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Local Emergency Planning Committee (LEPC) al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Local Emergency Planning Committee (LEPC) se encarga de servicios relacionados con Local.",
+        "El horario de atención del Local Emergency Planning Committee (LEPC) es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "magistrates_-_judicial_commission",
+    "example_inputs": {
+      "en": [
+        "How do I contact Magistrates - Judicial Commission?",
+        "What's the phone number for Magistrates - Judicial Commission?",
+        "Where is Magistrates - Judicial Commission located?",
+        "What does the Magistrates - Judicial Commission do?",
+        "When is Magistrates - Judicial Commission open?",
+        "What are the hours for Magistrates - Judicial Commission?",
+        "I need to visit Magistrates - Judicial Commission. How do I get there?",
+        "Do I need an appointment for Magistrates - Judicial Commission?",
+        "Is Magistrates - Judicial Commission open on weekends?",
+        "Can I get forms from Magistrates - Judicial Commission online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Magistrates - Judicial Commission?",
+        "¿Cuál es el número de teléfono de Magistrates - Judicial Commission?",
+        "¿Dónde se encuentra Magistrates - Judicial Commission?",
+        "¿Qué hace Magistrates - Judicial Commission?",
+        "¿Cuál es el horario de atención de Magistrates - Judicial Commission?",
+        "¿En qué horario atiende Magistrates - Judicial Commission?",
+        "Necesito visitar Magistrates - Judicial Commission. ¿Cómo llego?",
+        "¿Necesito cita para Magistrates - Judicial Commission?",
+        "¿Atienden los fines de semana Magistrates - Judicial Commission?",
+        "¿Puedo obtener formularios de Magistrates - Judicial Commission en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Magistrates - Judicial Commission at [phone] or email [email@county.gov].",
+        "The Magistrates - Judicial Commission handles services related to Magistrates.",
+        "Office hours for Magistrates - Judicial Commission are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Magistrates - Judicial Commission al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Magistrates - Judicial Commission se encarga de servicios relacionados con Magistrates.",
+        "El horario de atención del Magistrates - Judicial Commission es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "mayor",
+    "example_inputs": {
+      "en": [
+        "How do I contact Mayor?",
+        "What's the phone number for Mayor?",
+        "Where is Mayor located?",
+        "What does the Mayor do?",
+        "When is Mayor open?",
+        "What are the hours for Mayor?",
+        "I need to visit Mayor. How do I get there?",
+        "Do I need an appointment for Mayor?",
+        "Is Mayor open on weekends?",
+        "Can I get forms from Mayor online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Mayor?",
+        "¿Cuál es el número de teléfono de Mayor?",
+        "¿Dónde se encuentra Mayor?",
+        "¿Qué hace Mayor?",
+        "¿Cuál es el horario de atención de Mayor?",
+        "¿En qué horario atiende Mayor?",
+        "Necesito visitar Mayor. ¿Cómo llego?",
+        "¿Necesito cita para Mayor?",
+        "¿Atienden los fines de semana Mayor?",
+        "¿Puedo obtener formularios de Mayor en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Mayor at [phone] or email [email@county.gov].",
+        "The Mayor handles services related to Mayor.",
+        "Office hours for Mayor are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Mayor al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Mayor se encarga de servicios relacionados con Mayor.",
+        "El horario de atención del Mayor es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "medical_examiner",
+    "example_inputs": {
+      "en": [
+        "How do I contact Medical Examiner?",
+        "What's the phone number for Medical Examiner?",
+        "Where is Medical Examiner located?",
+        "What does the Medical Examiner do?",
+        "When is Medical Examiner open?",
+        "What are the hours for Medical Examiner?",
+        "I need to visit Medical Examiner. How do I get there?",
+        "Do I need an appointment for Medical Examiner?",
+        "Is Medical Examiner open on weekends?",
+        "Can I get forms from Medical Examiner online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Medical Examiner?",
+        "¿Cuál es el número de teléfono de Medical Examiner?",
+        "¿Dónde se encuentra Medical Examiner?",
+        "¿Qué hace Medical Examiner?",
+        "¿Cuál es el horario de atención de Medical Examiner?",
+        "¿En qué horario atiende Medical Examiner?",
+        "Necesito visitar Medical Examiner. ¿Cómo llego?",
+        "¿Necesito cita para Medical Examiner?",
+        "¿Atienden los fines de semana Medical Examiner?",
+        "¿Puedo obtener formularios de Medical Examiner en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Medical Examiner at [phone] or email [email@county.gov].",
+        "The Medical Examiner handles services related to Medical.",
+        "Office hours for Medical Examiner are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Medical Examiner al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Medical Examiner se encarga de servicios relacionados con Medical.",
+        "El horario de atención del Medical Examiner es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "mental_health_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Mental Health Court?",
+        "What's the phone number for Mental Health Court?",
+        "Where is Mental Health Court located?",
+        "What does the Mental Health Court do?",
+        "When is Mental Health Court open?",
+        "What are the hours for Mental Health Court?",
+        "I need to visit Mental Health Court. How do I get there?",
+        "Do I need an appointment for Mental Health Court?",
+        "Is Mental Health Court open on weekends?",
+        "Can I get forms from Mental Health Court online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Mental Health Court?",
+        "¿Cuál es el número de teléfono de Mental Health Court?",
+        "¿Dónde se encuentra Mental Health Court?",
+        "¿Qué hace Mental Health Court?",
+        "¿Cuál es el horario de atención de Mental Health Court?",
+        "¿En qué horario atiende Mental Health Court?",
+        "Necesito visitar Mental Health Court. ¿Cómo llego?",
+        "¿Necesito cita para Mental Health Court?",
+        "¿Atienden los fines de semana Mental Health Court?",
+        "¿Puedo obtener formularios de Mental Health Court en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Mental Health Court at [phone] or email [email@county.gov].",
+        "The Mental Health Court handles services related to Mental.",
+        "Office hours for Mental Health Court are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Mental Health Court al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Mental Health Court se encarga de servicios relacionados con Mental.",
+        "El horario de atención del Mental Health Court es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "parks_and_recreation",
+    "example_inputs": {
+      "en": [
+        "How do I contact Parks And Recreation?",
+        "What's the phone number for Parks And Recreation?",
+        "Where is Parks And Recreation located?",
+        "What does the Parks And Recreation do?",
+        "When is Parks And Recreation open?",
+        "What are the hours for Parks And Recreation?",
+        "I need to visit Parks And Recreation. How do I get there?",
+        "Do I need an appointment for Parks And Recreation?",
+        "Is Parks And Recreation open on weekends?",
+        "Can I get forms from Parks And Recreation online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Parks And Recreation?",
+        "¿Cuál es el número de teléfono de Parks And Recreation?",
+        "¿Dónde se encuentra Parks And Recreation?",
+        "¿Qué hace Parks And Recreation?",
+        "¿Cuál es el horario de atención de Parks And Recreation?",
+        "¿En qué horario atiende Parks And Recreation?",
+        "Necesito visitar Parks And Recreation. ¿Cómo llego?",
+        "¿Necesito cita para Parks And Recreation?",
+        "¿Atienden los fines de semana Parks And Recreation?",
+        "¿Puedo obtener formularios de Parks And Recreation en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Parks And Recreation at [phone] or email [email@county.gov].",
+        "The Parks And Recreation handles services related to Parks.",
+        "Office hours for Parks And Recreation are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Parks And Recreation al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Parks And Recreation se encarga de servicios relacionados con Parks.",
+        "El horario de atención del Parks And Recreation es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "procurement_and_fleet_management_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Procurement And Fleet Management Department?",
+        "What's the phone number for Procurement And Fleet Management Department?",
+        "Where is Procurement And Fleet Management Department located?",
+        "What does the Procurement And Fleet Management Department do?",
+        "When is Procurement And Fleet Management Department open?",
+        "What are the hours for Procurement And Fleet Management Department?",
+        "I need to visit Procurement And Fleet Management Department. How do I get there?",
+        "Do I need an appointment for Procurement And Fleet Management Department?",
+        "Is Procurement And Fleet Management Department open on weekends?",
+        "Can I get forms from Procurement And Fleet Management Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Procurement And Fleet Management Department?",
+        "¿Cuál es el número de teléfono de Procurement And Fleet Management Department?",
+        "¿Dónde se encuentra Procurement And Fleet Management Department?",
+        "¿Qué hace Procurement And Fleet Management Department?",
+        "¿Cuál es el horario de atención de Procurement And Fleet Management Department?",
+        "¿En qué horario atiende Procurement And Fleet Management Department?",
+        "Necesito visitar Procurement And Fleet Management Department. ¿Cómo llego?",
+        "¿Necesito cita para Procurement And Fleet Management Department?",
+        "¿Atienden los fines de semana Procurement And Fleet Management Department?",
+        "¿Puedo obtener formularios de Procurement And Fleet Management Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Procurement And Fleet Management Department at [phone] or email [email@county.gov].",
+        "The Procurement And Fleet Management Department handles services related to Procurement.",
+        "Office hours for Procurement And Fleet Management Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Procurement And Fleet Management Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Procurement And Fleet Management Department se encarga de servicios relacionados con Procurement.",
+        "El horario de atención del Procurement And Fleet Management Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "public_defender",
+    "example_inputs": {
+      "en": [
+        "How do I contact Public Defender?",
+        "What's the phone number for Public Defender?",
+        "Where is Public Defender located?",
+        "What does the Public Defender do?",
+        "When is Public Defender open?",
+        "What are the hours for Public Defender?",
+        "I need to visit Public Defender. How do I get there?",
+        "Do I need an appointment for Public Defender?",
+        "Is Public Defender open on weekends?",
+        "Can I get forms from Public Defender online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Public Defender?",
+        "¿Cuál es el número de teléfono de Public Defender?",
+        "¿Dónde se encuentra Public Defender?",
+        "¿Qué hace Public Defender?",
+        "¿Cuál es el horario de atención de Public Defender?",
+        "¿En qué horario atiende Public Defender?",
+        "Necesito visitar Public Defender. ¿Cómo llego?",
+        "¿Necesito cita para Public Defender?",
+        "¿Atienden los fines de semana Public Defender?",
+        "¿Puedo obtener formularios de Public Defender en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Public Defender at [phone] or email [email@county.gov].",
+        "The Public Defender handles services related to Public.",
+        "Office hours for Public Defender are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Public Defender al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Public Defender se encarga de servicios relacionados con Public.",
+        "El horario de atención del Public Defender es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "public_works_division",
+    "example_inputs": {
+      "en": [
+        "How do I contact Public Works Division?",
+        "What's the phone number for Public Works Division?",
+        "Where is Public Works Division located?",
+        "What does the Public Works Division do?",
+        "When is Public Works Division open?",
+        "What are the hours for Public Works Division?",
+        "I need to visit Public Works Division. How do I get there?",
+        "Do I need an appointment for Public Works Division?",
+        "Is Public Works Division open on weekends?",
+        "Can I get forms from Public Works Division online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Public Works Division?",
+        "¿Cuál es el número de teléfono de Public Works Division?",
+        "¿Dónde se encuentra Public Works Division?",
+        "¿Qué hace Public Works Division?",
+        "¿Cuál es el horario de atención de Public Works Division?",
+        "¿En qué horario atiende Public Works Division?",
+        "Necesito visitar Public Works Division. ¿Cómo llego?",
+        "¿Necesito cita para Public Works Division?",
+        "¿Atienden los fines de semana Public Works Division?",
+        "¿Puedo obtener formularios de Public Works Division en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Public Works Division at [phone] or email [email@county.gov].",
+        "The Public Works Division handles services related to Public.",
+        "Office hours for Public Works Division are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Public Works Division al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Public Works Division se encarga de servicios relacionados con Public.",
+        "El horario de atención del Public Works Division es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "read_20_program",
+    "example_inputs": {
+      "en": [
+        "How do I contact Read 20 Program?",
+        "What's the phone number for Read 20 Program?",
+        "Where is Read 20 Program located?",
+        "What does the Read 20 Program do?",
+        "When is Read 20 Program open?",
+        "What are the hours for Read 20 Program?",
+        "I need to visit Read 20 Program. How do I get there?",
+        "Do I need an appointment for Read 20 Program?",
+        "Is Read 20 Program open on weekends?",
+        "Can I get forms from Read 20 Program online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Read 20 Program?",
+        "¿Cuál es el número de teléfono de Read 20 Program?",
+        "¿Dónde se encuentra Read 20 Program?",
+        "¿Qué hace Read 20 Program?",
+        "¿Cuál es el horario de atención de Read 20 Program?",
+        "¿En qué horario atiende Read 20 Program?",
+        "Necesito visitar Read 20 Program. ¿Cómo llego?",
+        "¿Necesito cita para Read 20 Program?",
+        "¿Atienden los fines de semana Read 20 Program?",
+        "¿Puedo obtener formularios de Read 20 Program en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Read 20 Program at [phone] or email [email@county.gov].",
+        "The Read 20 Program handles services related to Read.",
+        "Office hours for Read 20 Program are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Read 20 Program al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Read 20 Program se encarga de servicios relacionados con Read.",
+        "El horario de atención del Read 20 Program es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "real_property_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact Real Property Office?",
+        "What's the phone number for Real Property Office?",
+        "Where is Real Property Office located?",
+        "What does the Real Property Office do?",
+        "When is Real Property Office open?",
+        "What are the hours for Real Property Office?",
+        "I need to visit Real Property Office. How do I get there?",
+        "Do I need an appointment for Real Property Office?",
+        "Is Real Property Office open on weekends?",
+        "Can I get forms from Real Property Office online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Real Property Office?",
+        "¿Cuál es el número de teléfono de Real Property Office?",
+        "¿Dónde se encuentra Real Property Office?",
+        "¿Qué hace Real Property Office?",
+        "¿Cuál es el horario de atención de Real Property Office?",
+        "¿En qué horario atiende Real Property Office?",
+        "Necesito visitar Real Property Office. ¿Cómo llego?",
+        "¿Necesito cita para Real Property Office?",
+        "¿Atienden los fines de semana Real Property Office?",
+        "¿Puedo obtener formularios de Real Property Office en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Real Property Office at [phone] or email [email@county.gov].",
+        "The Real Property Office handles services related to Real.",
+        "Office hours for Real Property Office are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Real Property Office al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Real Property Office se encarga de servicios relacionados con Real.",
+        "El horario de atención del Real Property Office es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "records_management",
+    "example_inputs": {
+      "en": [
+        "How do I contact Records Management?",
+        "What's the phone number for Records Management?",
+        "Where is Records Management located?",
+        "What does the Records Management do?",
+        "When is Records Management open?",
+        "What are the hours for Records Management?",
+        "I need to visit Records Management. How do I get there?",
+        "Do I need an appointment for Records Management?",
+        "Is Records Management open on weekends?",
+        "Can I get forms from Records Management online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Records Management?",
+        "¿Cuál es el número de teléfono de Records Management?",
+        "¿Dónde se encuentra Records Management?",
+        "¿Qué hace Records Management?",
+        "¿Cuál es el horario de atención de Records Management?",
+        "¿En qué horario atiende Records Management?",
+        "Necesito visitar Records Management. ¿Cómo llego?",
+        "¿Necesito cita para Records Management?",
+        "¿Atienden los fines de semana Records Management?",
+        "¿Puedo obtener formularios de Records Management en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Records Management at [phone] or email [email@county.gov].",
+        "The Records Management handles services related to Records.",
+        "Office hours for Records Management are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Records Management al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Records Management se encarga de servicios relacionados con Records.",
+        "El horario de atención del Records Management es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "recycling_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Recycling Department?",
+        "What's the phone number for Recycling Department?",
+        "Where is Recycling Department located?",
+        "What does the Recycling Department do?",
+        "When is Recycling Department open?",
+        "What are the hours for Recycling Department?",
+        "I need to visit Recycling Department. How do I get there?",
+        "Do I need an appointment for Recycling Department?",
+        "Is Recycling Department open on weekends?",
+        "Can I get forms from Recycling Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Recycling Department?",
+        "¿Cuál es el número de teléfono de Recycling Department?",
+        "¿Dónde se encuentra Recycling Department?",
+        "¿Qué hace Recycling Department?",
+        "¿Cuál es el horario de atención de Recycling Department?",
+        "¿En qué horario atiende Recycling Department?",
+        "Necesito visitar Recycling Department. ¿Cómo llego?",
+        "¿Necesito cita para Recycling Department?",
+        "¿Atienden los fines de semana Recycling Department?",
+        "¿Puedo obtener formularios de Recycling Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Recycling Department at [phone] or email [email@county.gov].",
+        "The Recycling Department handles services related to Recycling.",
+        "Office hours for Recycling Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Recycling Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Recycling Department se encarga de servicios relacionados con Recycling.",
+        "El horario de atención del Recycling Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "register_of_deeds",
+    "example_inputs": {
+      "en": [
+        "How do I contact Register of Deeds?",
+        "What's the phone number for Register of Deeds?",
+        "Where is Register of Deeds located?",
+        "What does the Register of Deeds do?",
+        "When is Register of Deeds open?",
+        "What are the hours for Register of Deeds?",
+        "I need to visit Register of Deeds. How do I get there?",
+        "Do I need an appointment for Register of Deeds?",
+        "Is Register of Deeds open on weekends?",
+        "Can I get forms from Register of Deeds online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Register of Deeds?",
+        "¿Cuál es el número de teléfono de Register of Deeds?",
+        "¿Dónde se encuentra Register of Deeds?",
+        "¿Qué hace Register of Deeds?",
+        "¿Cuál es el horario de atención de Register of Deeds?",
+        "¿En qué horario atiende Register of Deeds?",
+        "Necesito visitar Register of Deeds. ¿Cómo llego?",
+        "¿Necesito cita para Register of Deeds?",
+        "¿Atienden los fines de semana Register of Deeds?",
+        "¿Puedo obtener formularios de Register of Deeds en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Register of Deeds at [phone] or email [email@county.gov].",
+        "The Register of Deeds handles services related to Register.",
+        "Office hours for Register of Deeds are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Register of Deeds al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Register of Deeds se encarga de servicios relacionados con Register.",
+        "El horario de atención del Register of Deeds es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "risk_management_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact Risk Management Office?",
+        "What's the phone number for Risk Management Office?",
+        "Where is Risk Management Office located?",
+        "What does the Risk Management Office do?",
+        "When is Risk Management Office open?",
+        "What are the hours for Risk Management Office?",
+        "I need to visit Risk Management Office. How do I get there?",
+        "Do I need an appointment for Risk Management Office?",
+        "Is Risk Management Office open on weekends?",
+        "Can I get forms from Risk Management Office online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Risk Management Office?",
+        "¿Cuál es el número de teléfono de Risk Management Office?",
+        "¿Dónde se encuentra Risk Management Office?",
+        "¿Qué hace Risk Management Office?",
+        "¿Cuál es el horario de atención de Risk Management Office?",
+        "¿En qué horario atiende Risk Management Office?",
+        "Necesito visitar Risk Management Office. ¿Cómo llego?",
+        "¿Necesito cita para Risk Management Office?",
+        "¿Atienden los fines de semana Risk Management Office?",
+        "¿Puedo obtener formularios de Risk Management Office en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Risk Management Office at [phone] or email [email@county.gov].",
+        "The Risk Management Office handles services related to Risk.",
+        "Office hours for Risk Management Office are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Risk Management Office al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Risk Management Office se encarga de servicios relacionados con Risk.",
+        "El horario de atención del Risk Management Office es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "sessions_civil_court",
+    "example_inputs": {
+      "en": [
+        "How do I contact Sessions Civil Court?",
+        "What's the phone number for Sessions Civil Court?",
+        "Where is Sessions Civil Court located?",
+        "What does the Sessions Civil Court do?",
+        "When is Sessions Civil Court open?",
+        "What are the hours for Sessions Civil Court?",
+        "I need to visit Sessions Civil Court. How do I get there?",
+        "Do I need an appointment for Sessions Civil Court?",
+        "Is Sessions Civil Court open on weekends?",
+        "Can I get forms from Sessions Civil Court online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Sessions Civil Court?",
+        "¿Cuál es el número de teléfono de Sessions Civil Court?",
+        "¿Dónde se encuentra Sessions Civil Court?",
+        "¿Qué hace Sessions Civil Court?",
+        "¿Cuál es el horario de atención de Sessions Civil Court?",
+        "¿En qué horario atiende Sessions Civil Court?",
+        "Necesito visitar Sessions Civil Court. ¿Cómo llego?",
+        "¿Necesito cita para Sessions Civil Court?",
+        "¿Atienden los fines de semana Sessions Civil Court?",
+        "¿Puedo obtener formularios de Sessions Civil Court en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Sessions Civil Court at [phone] or email [email@county.gov].",
+        "The Sessions Civil Court handles services related to Sessions.",
+        "Office hours for Sessions Civil Court are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Sessions Civil Court al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Sessions Civil Court se encarga de servicios relacionados con Sessions.",
+        "El horario de atención del Sessions Civil Court es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "sessions_court_judges_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact Sessions Court Judges Office?",
+        "What's the phone number for Sessions Court Judges Office?",
+        "Where is Sessions Court Judges Office located?",
+        "What does the Sessions Court Judges Office do?",
+        "When is Sessions Court Judges Office open?",
+        "What are the hours for Sessions Court Judges Office?",
+        "I need to visit Sessions Court Judges Office. How do I get there?",
+        "Do I need an appointment for Sessions Court Judges Office?",
+        "Is Sessions Court Judges Office open on weekends?",
+        "Can I get forms from Sessions Court Judges Office online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Sessions Court Judges Office?",
+        "¿Cuál es el número de teléfono de Sessions Court Judges Office?",
+        "¿Dónde se encuentra Sessions Court Judges Office?",
+        "¿Qué hace Sessions Court Judges Office?",
+        "¿Cuál es el horario de atención de Sessions Court Judges Office?",
+        "¿En qué horario atiende Sessions Court Judges Office?",
+        "Necesito visitar Sessions Court Judges Office. ¿Cómo llego?",
+        "¿Necesito cita para Sessions Court Judges Office?",
+        "¿Atienden los fines de semana Sessions Court Judges Office?",
+        "¿Puedo obtener formularios de Sessions Court Judges Office en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Sessions Court Judges Office at [phone] or email [email@county.gov].",
+        "The Sessions Court Judges Office handles services related to Sessions.",
+        "Office hours for Sessions Court Judges Office are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Sessions Court Judges Office al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Sessions Court Judges Office se encarga de servicios relacionados con Sessions.",
+        "El horario de atención del Sessions Court Judges Office es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "sheriff",
+    "example_inputs": {
+      "en": [
+        "How do I contact Sheriff?",
+        "What's the phone number for Sheriff?",
+        "Where is Sheriff located?",
+        "What does the Sheriff do?",
+        "When is Sheriff open?",
+        "What are the hours for Sheriff?",
+        "I need to visit Sheriff. How do I get there?",
+        "Do I need an appointment for Sheriff?",
+        "Is Sheriff open on weekends?",
+        "Can I get forms from Sheriff online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Sheriff?",
+        "¿Cuál es el número de teléfono de Sheriff?",
+        "¿Dónde se encuentra Sheriff?",
+        "¿Qué hace Sheriff?",
+        "¿Cuál es el horario de atención de Sheriff?",
+        "¿En qué horario atiende Sheriff?",
+        "Necesito visitar Sheriff. ¿Cómo llego?",
+        "¿Necesito cita para Sheriff?",
+        "¿Atienden los fines de semana Sheriff?",
+        "¿Puedo obtener formularios de Sheriff en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Sheriff at [phone] or email [email@county.gov].",
+        "The Sheriff handles services related to Sheriff.",
+        "Office hours for Sheriff are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Sheriff al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Sheriff se encarga de servicios relacionados con Sheriff.",
+        "El horario de atención del Sheriff es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "soil_and_water_conservation_district",
+    "example_inputs": {
+      "en": [
+        "How do I contact Soil and Water Conservation District?",
+        "What's the phone number for Soil and Water Conservation District?",
+        "Where is Soil and Water Conservation District located?",
+        "What does the Soil and Water Conservation District do?",
+        "When is Soil and Water Conservation District open?",
+        "What are the hours for Soil and Water Conservation District?",
+        "I need to visit Soil and Water Conservation District. How do I get there?",
+        "Do I need an appointment for Soil and Water Conservation District?",
+        "Is Soil and Water Conservation District open on weekends?",
+        "Can I get forms from Soil and Water Conservation District online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Soil and Water Conservation District?",
+        "¿Cuál es el número de teléfono de Soil and Water Conservation District?",
+        "¿Dónde se encuentra Soil and Water Conservation District?",
+        "¿Qué hace Soil and Water Conservation District?",
+        "¿Cuál es el horario de atención de Soil and Water Conservation District?",
+        "¿En qué horario atiende Soil and Water Conservation District?",
+        "Necesito visitar Soil and Water Conservation District. ¿Cómo llego?",
+        "¿Necesito cita para Soil and Water Conservation District?",
+        "¿Atienden los fines de semana Soil and Water Conservation District?",
+        "¿Puedo obtener formularios de Soil and Water Conservation District en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Soil and Water Conservation District at [phone] or email [email@county.gov].",
+        "The Soil and Water Conservation District handles services related to Soil.",
+        "Office hours for Soil and Water Conservation District are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Soil and Water Conservation District al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Soil and Water Conservation District se encarga de servicios relacionados con Soil.",
+        "El horario de atención del Soil and Water Conservation District es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "support_services",
+    "example_inputs": {
+      "en": [
+        "How do I contact Support Services?",
+        "What's the phone number for Support Services?",
+        "Where is Support Services located?",
+        "What does the Support Services do?",
+        "When is Support Services open?",
+        "What are the hours for Support Services?",
+        "I need to visit Support Services. How do I get there?",
+        "Do I need an appointment for Support Services?",
+        "Is Support Services open on weekends?",
+        "Can I get forms from Support Services online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Support Services?",
+        "¿Cuál es el número de teléfono de Support Services?",
+        "¿Dónde se encuentra Support Services?",
+        "¿Qué hace Support Services?",
+        "¿Cuál es el horario de atención de Support Services?",
+        "¿En qué horario atiende Support Services?",
+        "Necesito visitar Support Services. ¿Cómo llego?",
+        "¿Necesito cita para Support Services?",
+        "¿Atienden los fines de semana Support Services?",
+        "¿Puedo obtener formularios de Support Services en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Support Services at [phone] or email [email@county.gov].",
+        "The Support Services handles services related to Support.",
+        "Office hours for Support Services are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Support Services al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Support Services se encarga de servicios relacionados con Support.",
+        "El horario de atención del Support Services es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "telecommunication_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Telecommunication Department?",
+        "What's the phone number for Telecommunication Department?",
+        "Where is Telecommunication Department located?",
+        "What does the Telecommunication Department do?",
+        "When is Telecommunication Department open?",
+        "What are the hours for Telecommunication Department?",
+        "I need to visit Telecommunication Department. How do I get there?",
+        "Do I need an appointment for Telecommunication Department?",
+        "Is Telecommunication Department open on weekends?",
+        "Can I get forms from Telecommunication Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Telecommunication Department?",
+        "¿Cuál es el número de teléfono de Telecommunication Department?",
+        "¿Dónde se encuentra Telecommunication Department?",
+        "¿Qué hace Telecommunication Department?",
+        "¿Cuál es el horario de atención de Telecommunication Department?",
+        "¿En qué horario atiende Telecommunication Department?",
+        "Necesito visitar Telecommunication Department. ¿Cómo llego?",
+        "¿Necesito cita para Telecommunication Department?",
+        "¿Atienden los fines de semana Telecommunication Department?",
+        "¿Puedo obtener formularios de Telecommunication Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Telecommunication Department at [phone] or email [email@county.gov].",
+        "The Telecommunication Department handles services related to Telecommunication.",
+        "Office hours for Telecommunication Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Telecommunication Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Telecommunication Department se encarga de servicios relacionados con Telecommunication.",
+        "El horario de atención del Telecommunication Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "title_vi_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Title VI Department?",
+        "What's the phone number for Title VI Department?",
+        "Where is Title VI Department located?",
+        "What does the Title VI Department do?",
+        "When is Title VI Department open?",
+        "What are the hours for Title VI Department?",
+        "I need to visit Title VI Department. How do I get there?",
+        "Do I need an appointment for Title VI Department?",
+        "Is Title VI Department open on weekends?",
+        "Can I get forms from Title VI Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Title VI Department?",
+        "¿Cuál es el número de teléfono de Title VI Department?",
+        "¿Dónde se encuentra Title VI Department?",
+        "¿Qué hace Title VI Department?",
+        "¿Cuál es el horario de atención de Title VI Department?",
+        "¿En qué horario atiende Title VI Department?",
+        "Necesito visitar Title VI Department. ¿Cómo llego?",
+        "¿Necesito cita para Title VI Department?",
+        "¿Atienden los fines de semana Title VI Department?",
+        "¿Puedo obtener formularios de Title VI Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Title VI Department at [phone] or email [email@county.gov].",
+        "The Title VI Department handles services related to Title.",
+        "Office hours for Title VI Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Title VI Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Title VI Department se encarga de servicios relacionados con Title.",
+        "El horario de atención del Title VI Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "tennessee_riverpark",
+    "example_inputs": {
+      "en": [
+        "How do I contact Tennessee Riverpark?",
+        "What's the phone number for Tennessee Riverpark?",
+        "Where is Tennessee Riverpark located?",
+        "What does the Tennessee Riverpark do?",
+        "When is Tennessee Riverpark open?",
+        "What are the hours for Tennessee Riverpark?",
+        "I need to visit Tennessee Riverpark. How do I get there?",
+        "Do I need an appointment for Tennessee Riverpark?",
+        "Is Tennessee Riverpark open on weekends?",
+        "Can I get forms from Tennessee Riverpark online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Tennessee Riverpark?",
+        "¿Cuál es el número de teléfono de Tennessee Riverpark?",
+        "¿Dónde se encuentra Tennessee Riverpark?",
+        "¿Qué hace Tennessee Riverpark?",
+        "¿Cuál es el horario de atención de Tennessee Riverpark?",
+        "¿En qué horario atiende Tennessee Riverpark?",
+        "Necesito visitar Tennessee Riverpark. ¿Cómo llego?",
+        "¿Necesito cita para Tennessee Riverpark?",
+        "¿Atienden los fines de semana Tennessee Riverpark?",
+        "¿Puedo obtener formularios de Tennessee Riverpark en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Tennessee Riverpark at [phone] or email [email@county.gov].",
+        "The Tennessee Riverpark handles services related to Tennessee.",
+        "Office hours for Tennessee Riverpark are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Tennessee Riverpark al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Tennessee Riverpark se encarga de servicios relacionados con Tennessee.",
+        "El horario de atención del Tennessee Riverpark es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "trustee",
+    "example_inputs": {
+      "en": [
+        "How do I contact Trustee?",
+        "What's the phone number for Trustee?",
+        "Where is Trustee located?",
+        "What does the Trustee do?",
+        "When is Trustee open?",
+        "What are the hours for Trustee?",
+        "I need to visit Trustee. How do I get there?",
+        "Do I need an appointment for Trustee?",
+        "Is Trustee open on weekends?",
+        "Can I get forms from Trustee online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Trustee?",
+        "¿Cuál es el número de teléfono de Trustee?",
+        "¿Dónde se encuentra Trustee?",
+        "¿Qué hace Trustee?",
+        "¿Cuál es el horario de atención de Trustee?",
+        "¿En qué horario atiende Trustee?",
+        "Necesito visitar Trustee. ¿Cómo llego?",
+        "¿Necesito cita para Trustee?",
+        "¿Atienden los fines de semana Trustee?",
+        "¿Puedo obtener formularios de Trustee en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Trustee at [phone] or email [email@county.gov].",
+        "The Trustee handles services related to Trustee.",
+        "Office hours for Trustee are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Trustee al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Trustee se encarga de servicios relacionados con Trustee.",
+        "El horario de atención del Trustee es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "veteran_services_office",
+    "example_inputs": {
+      "en": [
+        "How do I contact Veteran Services Office?",
+        "What's the phone number for Veteran Services Office?",
+        "Where is Veteran Services Office located?",
+        "What does the Veteran Services Office do?",
+        "When is Veteran Services Office open?",
+        "What are the hours for Veteran Services Office?",
+        "I need to visit Veteran Services Office. How do I get there?",
+        "Do I need an appointment for Veteran Services Office?",
+        "Is Veteran Services Office open on weekends?",
+        "Can I get forms from Veteran Services Office online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Veteran Services Office?",
+        "¿Cuál es el número de teléfono de Veteran Services Office?",
+        "¿Dónde se encuentra Veteran Services Office?",
+        "¿Qué hace Veteran Services Office?",
+        "¿Cuál es el horario de atención de Veteran Services Office?",
+        "¿En qué horario atiende Veteran Services Office?",
+        "Necesito visitar Veteran Services Office. ¿Cómo llego?",
+        "¿Necesito cita para Veteran Services Office?",
+        "¿Atienden los fines de semana Veteran Services Office?",
+        "¿Puedo obtener formularios de Veteran Services Office en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Veteran Services Office at [phone] or email [email@county.gov].",
+        "The Veteran Services Office handles services related to Veteran.",
+        "Office hours for Veteran Services Office are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Veteran Services Office al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Veteran Services Office se encarga de servicios relacionados con Veteran.",
+        "El horario de atención del Veteran Services Office es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "water_quality_department",
+    "example_inputs": {
+      "en": [
+        "How do I contact Water Quality Department?",
+        "What's the phone number for Water Quality Department?",
+        "Where is Water Quality Department located?",
+        "What does the Water Quality Department do?",
+        "When is Water Quality Department open?",
+        "What are the hours for Water Quality Department?",
+        "I need to visit Water Quality Department. How do I get there?",
+        "Do I need an appointment for Water Quality Department?",
+        "Is Water Quality Department open on weekends?",
+        "Can I get forms from Water Quality Department online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Water Quality Department?",
+        "¿Cuál es el número de teléfono de Water Quality Department?",
+        "¿Dónde se encuentra Water Quality Department?",
+        "¿Qué hace Water Quality Department?",
+        "¿Cuál es el horario de atención de Water Quality Department?",
+        "¿En qué horario atiende Water Quality Department?",
+        "Necesito visitar Water Quality Department. ¿Cómo llego?",
+        "¿Necesito cita para Water Quality Department?",
+        "¿Atienden los fines de semana Water Quality Department?",
+        "¿Puedo obtener formularios de Water Quality Department en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Water Quality Department at [phone] or email [email@county.gov].",
+        "The Water Quality Department handles services related to Water.",
+        "Office hours for Water Quality Department are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Water Quality Department al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Water Quality Department se encarga de servicios relacionados con Water.",
+        "El horario de atención del Water Quality Department es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  },
+  {
+    "tag": "water_and_wastewater_treatment_authority_wwta",
+    "example_inputs": {
+      "en": [
+        "How do I contact Water And Wastewater Treatment Authority (WWTA)?",
+        "What's the phone number for Water And Wastewater Treatment Authority (WWTA)?",
+        "Where is Water And Wastewater Treatment Authority (WWTA) located?",
+        "What does the Water And Wastewater Treatment Authority (WWTA) do?",
+        "When is Water And Wastewater Treatment Authority (WWTA) open?",
+        "What are the hours for Water And Wastewater Treatment Authority (WWTA)?",
+        "I need to visit Water And Wastewater Treatment Authority (WWTA). How do I get there?",
+        "Do I need an appointment for Water And Wastewater Treatment Authority (WWTA)?",
+        "Is Water And Wastewater Treatment Authority (WWTA) open on weekends?",
+        "Can I get forms from Water And Wastewater Treatment Authority (WWTA) online?"
+      ],
+      "es": [
+        "¿Cómo me comunico con Water And Wastewater Treatment Authority (WWTA)?",
+        "¿Cuál es el número de teléfono de Water And Wastewater Treatment Authority (WWTA)?",
+        "¿Dónde se encuentra Water And Wastewater Treatment Authority (WWTA)?",
+        "¿Qué hace Water And Wastewater Treatment Authority (WWTA)?",
+        "¿Cuál es el horario de atención de Water And Wastewater Treatment Authority (WWTA)?",
+        "¿En qué horario atiende Water And Wastewater Treatment Authority (WWTA)?",
+        "Necesito visitar Water And Wastewater Treatment Authority (WWTA). ¿Cómo llego?",
+        "¿Necesito cita para Water And Wastewater Treatment Authority (WWTA)?",
+        "¿Atienden los fines de semana Water And Wastewater Treatment Authority (WWTA)?",
+        "¿Puedo obtener formularios de Water And Wastewater Treatment Authority (WWTA) en línea?"
+      ]
+    },
+    "possible_responses": {
+      "en": [
+        "You can contact Water And Wastewater Treatment Authority (WWTA) at [phone] or email [email@county.gov].",
+        "The Water And Wastewater Treatment Authority (WWTA) handles services related to Water.",
+        "Office hours for Water And Wastewater Treatment Authority (WWTA) are Monday-Friday, 8:00 AM - 4:30 PM."
+      ],
+      "es": [
+        "Puede comunicarse con Water And Wastewater Treatment Authority (WWTA) al [teléfono] o por correo electrónico [email@county.gov].",
+        "El Water And Wastewater Treatment Authority (WWTA) se encarga de servicios relacionados con Water.",
+        "El horario de atención del Water And Wastewater Treatment Authority (WWTA) es de lunes a viernes, 8:00 AM - 4:30 PM."
+      ]
+    }
+  }
+]

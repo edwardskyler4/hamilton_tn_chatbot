@@ -1,0 +1,206 @@
+version: "3.1"
+stories:
+- story: respond to accounting
+  steps:
+  - intent: accounting
+  - action: utter_accounting
+- story: respond to ut_tsu_extension__hamilton_county
+  steps:
+  - intent: ut_tsu_extension__hamilton_county
+  - action: utter_ut_tsu_extension__hamilton_county
+- story: respond to alternative_sentencing
+  steps:
+  - intent: alternative_sentencing
+  - action: utter_alternative_sentencing
+- story: respond to assessor_of_property
+  steps:
+  - intent: assessor_of_property
+  - action: utter_assessor_of_property
+- story: respond to building_inspection_department
+  steps:
+  - intent: building_inspection_department
+  - action: utter_building_inspection_department
+- story: respond to chester_frost_park
+  steps:
+  - intent: chester_frost_park
+  - action: utter_chester_frost_park
+- story: respond to chancery_court
+  steps:
+  - intent: chancery_court
+  - action: utter_chancery_court
+- story: respond to chcrpa
+  steps:
+  - intent: chcrpa
+  - action: utter_chcrpa
+- story: respond to chief_of_staff
+  steps:
+  - intent: chief_of_staff
+  - action: utter_chief_of_staff
+- story: respond to circuit_court_clerk
+  steps:
+  - intent: circuit_court_clerk
+  - action: utter_circuit_court_clerk
+- story: respond to circuit_court_judges
+  steps:
+  - intent: circuit_court_judges
+  - action: utter_circuit_court_judges
+- story: respond to clerk_and_master
+  steps:
+  - intent: clerk_and_master
+  - action: utter_clerk_and_master
+- story: respond to community_and_economic_development_department
+  steps:
+  - intent: community_and_economic_development_department
+  - action: utter_community_and_economic_development_department
+- story: respond to county_attorney
+  steps:
+  - intent: county_attorney
+  - action: utter_county_attorney
+- story: respond to county_auditor's_office
+  steps:
+  - intent: county_auditor's_office
+  - action: utter_county_auditor's_office
+- story: respond to county_clerk
+  steps:
+  - intent: county_clerk
+  - action: utter_county_clerk
+- story: respond to county_commission
+  steps:
+  - intent: county_commission
+  - action: utter_county_commission
+- story: respond to county_mayor
+  steps:
+  - intent: county_mayor
+  - action: utter_county_mayor
+- story: respond to criminal_court_clerk
+  steps:
+  - intent: criminal_court_clerk
+  - action: utter_criminal_court_clerk
+- story: respond to criminal_court_clerk_expungement_center
+  steps:
+  - intent: criminal_court_clerk_expungement_center
+  - action: utter_criminal_court_clerk_expungement_center
+- story: respond to criminal_court_clerk_payment_center
+  steps:
+  - intent: criminal_court_clerk_payment_center
+  - action: utter_criminal_court_clerk_payment_center
+- story: respond to criminal_court_judges
+  steps:
+  - intent: criminal_court_judges
+  - action: utter_criminal_court_judges
+- story: respond to development_department
+  steps:
+  - intent: development_department
+  - action: utter_development_department
+- story: respond to development_services
+  steps:
+  - intent: development_services
+  - action: utter_development_services
+- story: respond to district_attorney_general
+  steps:
+  - intent: district_attorney_general
+  - action: utter_district_attorney_general
+- story: respond to drug_recovery_court
+  steps:
+  - intent: drug_recovery_court
+  - action: utter_drug_recovery_court
+- story: respond to education_department
+  steps:
+  - intent: education_department
+  - action: utter_education_department
+- story: respond to election_commission
+  steps:
+  - intent: election_commission
+  - action: utter_election_commission
+- story: respond to emergency_management_and_homeland_security
+  steps:
+  - intent: emergency_management_and_homeland_security
+  - action: utter_emergency_management_and_homeland_security
+- story: respond to emergency_medical_services_ems
+  steps:
+  - intent: emergency_medical_services_ems
+  - action: utter_emergency_medical_services_ems
+- story: respond to engineering_department
+  steps:
+  - intent: engineering_department
+  - action: utter_engineering_department
+- story: respond to enterprise_south_nature_park
+  steps:
+  - intent: enterprise_south_nature_park
+  - action: utter_enterprise_south_nature_park
+- story: respond to equal_employment_opportunity_eeo
+  steps:
+  - intent: equal_employment_opportunity_eeo
+  - action: utter_equal_employment_opportunity_eeo
+- story: respond to facilities_maintenance_department
+  steps:
+  - intent: facilities_maintenance_department
+  - action: utter_facilities_maintenance_department
+- story: respond to finance_division
+  steps:
+  - intent: finance_division
+  - action: utter_finance_division
+- story: respond to financial_management
+  steps:
+  - intent: financial_management
+  - action: utter_financial_management
+- story: respond to general_services_division
+  steps:
+  - intent: general_services_division
+  - action: utter_general_services_division
+- story: respond to general_sessions_criminal_clerk
+  steps:
+  - intent: general_sessions_criminal_clerk
+  - action: utter_general_sessions_criminal_clerk
+- story: respond to geospatial_technology
+  steps:
+  - intent: geospatial_technology
+  - action: utter_geospatial_technology
+- story: respond to ground_water
+  steps:
+  - intent: ground_water
+  - action: utter_ground_water
+- story: respond to health_department
+  steps:
+  - intent: health_department
+  - action: utter_health_department
+- story: respond to highway_department
+  steps:
+  - intent: highway_department
+  - action: utter_highway_department
+- story: respond to human_resources_division
+  steps:
+  - intent: human_resources_division
+  - action: utter_human_resources_division
+- story: respond to information_technology_department_it
+  steps:
+  - intent: information_technology_department_it
+  - action: utter_information_technology_department_it
+- story: respond to judicial_commission_magistrates
+  steps:
+  - intent: judicial_commission_magistrates
+  - action: utter_judicial_commission_magistrates
+- story: respond to juvenile_court
+  steps:
+  - intent: juvenile_court
+  - action: utter_juvenile_court
+- story: respond to juvenile_court_clerk
+  steps:
+  - intent: juvenile_court_clerk
+  - action: utter_juvenile_court_clerk
+- story: respond to child_support_division
+  steps:
+  - intent: child_support_division
+  - action: utter_child_support_division
+- story: respond to local_emergency_planning_committee_lepc
+  steps:
+  - intent: local_emergency_planning_committee_lepc
+  - action: utter_local_emergency_planning_committee_lepc
+- story: respond to magistrates_-_judicial_commission
+  steps:
+  - intent: magistrates_-_judicial_commission
+  - action: utter_magistrates_-_judicial_commission
+- story: ask for help
+  steps:
+  - intent: greet
+  - action: utter_help
