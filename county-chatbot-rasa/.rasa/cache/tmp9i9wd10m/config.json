@@ -1,0 +1,25 @@
+{
+  "prompt_template": null,
+  "user_input": null,
+  "llm": {
+    "id": "gemini_llm",
+    "models": [
+      {
+        "provider": "gemini",
+        "model": "gemini-pro",
+        "request_timeout": 7,
+        "max_tokens": 256,
+        "api_key": "${GEMINI_API_KEY}"
+      }
+    ]
+  },
+  "flow_retrieval": {
+    "embeddings": {
+      "provider": "openai",
+      "model": "text-embedding-3-large"
+    },
+    "num_flows": 20,
+    "turns_to_embed": 1,
+    "should_embed_slots": true
+  }
+}

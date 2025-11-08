@@ -1,15 +1,14 @@
+recipe: default.v1
+assistant_id: funny-founder
 language: en
+additional_languages:
+  - "es"
 pipeline:
-- name: WhitespaceTokenizer
-- name: CountVectorsFeaturizer
-- name: DIETClassifier
-  epochs: 50
-- name: EntitySynonymMapper
-- name: ResponseSelector
-  epochs: 50
+  - name: CompactLLMCommandGenerator
+    llm:
+      model_group: gemini_llm
 policies:
-- name: MemoizationPolicy
-- name: RulePolicy
-- name: TEDPolicy
-  max_history: 5
-  epochs: 50
+  - name: FlowPolicy
+  #- name: EnterpriseSearchPolicy
+  #  vectore_store:
+  #     type:
