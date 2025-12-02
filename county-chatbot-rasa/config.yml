@@ -6,7 +6,8 @@ additional_languages:
 pipeline:
   - name: CompactLLMCommandGenerator
     llm:
-      model_group: gemini_llm
+      provider: google
+      model: gemini-2.5-flash
 policies:
   - name: FlowPolicy
   #- name: EnterpriseSearchPolicy
